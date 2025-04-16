@@ -9,44 +9,60 @@
 
 ### 👨‍💼 About Me
 
-- 🧠 Passionate ML Engineer specializing in **AI for healthcare**, **real-time systems**, and **deep learning**.
-- 🔍 Currently focused on building robust and interpretable models for **medical diagnostics** and **fraud detection**.
-- ⚙️ I love turning ML prototypes into real-time apps using **Streamlit**, **OpenCV**, and **Gemini AI**.
-- 📚 Always learning more about **XAI (explainable AI)**, **hybrid models**, and scalable ML deployment.
+- 🔬 I'm a Machine Learning Engineer with deep expertise in **hybrid AI architectures**, **real-time systems**, and **medical AI diagnostics**.
+- 🧪 My passion lies in **developing interpretable AI** solutions for **healthcare**, **security**, and **audio-visual intelligence**.
+- 💡 I specialize in converting research prototypes into **production-ready systems** using **Streamlit**, **OpenCV**, **Gemini API**, and **PyTorch**.
+- 🧠 Always exploring the next frontier in **explainable AI (XAI)**, **cross-modal fusion**, and **generative models**.
 
 ---
 
-### 💼 Projects
+### 💼 Flagship Projects
 
-#### 🎥 Deepfake Detector
-- Built a **hybrid model (3D CNN + BiLSTM + ResNet)** to detect deepfakes from video.
-- Integrated with **real-time webcam**, **frame preview**, and **Gemini AI** for smart explanations.
-- Interactive **Streamlit dashboard** with recording, prediction, and visual summaries.
+#### 🎥 Deepfake Detection System (Hybrid CNN + ResNet + BiLSTM)
+- 📹 Built a **multi-stream hybrid model** combining **3D CNN**, **ResNet**, and **Bidirectional LSTM** to classify real vs fake videos.
+- 🔍 Dataset: Real/fake video frame datasets preprocessed using frame extraction and temporal sampling.
+- ⚙️ Achieved **95%+ accuracy** by leveraging **spatio-temporal features**, **attention-enhanced LSTM**, and **frame-level aggregation**.
+- 🧪 Real-time dashboard built with **Streamlit**, offering webcam recording, frame visualization, and Gemini-powered explanations.
+- 🧠 Integrated **Gemini AI** to explain predictions frame-by-frame and provide narrative diagnostics.
+- 💽 Tools: PyTorch, OpenCV, Streamlit, Gemini API, Custom DatasetLoader, and HybridModel Trainer.
 
-#### 🏦 Credit Risk Prediction
-- Developed a **classification model** to predict loan default probability using financial and behavioral features.
-- Included **feature importance visualizations**, **explainability insights**, and **user-friendly input forms**.
+#### 🧠 Parkinson’s Disease Detection (Speech + CSV Fusion)
+- 🎙 Developed a dual-path pipeline for Parkinson’s prediction using **audio MFCC features** and **CSV-based patient metrics**.
+- 🔗 Fusion of **Random Forest**, **RNN**, and **LSTM** enabled robust multi-modal learning with high generalizability.
+- 🧠 Audio preprocessing includes **MFCC extraction**, **temporal padding**, and spectrogram visualization.
+- 📈 Achieved high prediction accuracy (>94%) with confidence estimates and doctor-friendly visual feedback.
+- 🚨 Integrated **real-time audio recording**, manual start/stop, and WAV conversion in **Streamlit app**.
+- 💡 Gemini AI explains predictions in layman's terms, improving trust for non-technical users.
 
-#### 🧠 Parkinson’s Disease Prediction
-- Multi-modal ML model using **voice audio** and **CSV-based health metrics**.
-- Achieved high accuracy using **model fusion** (Random Forest + RNN + LSTM).
-- Explained results using **Gemini AI** and **medical-focused UI design**.
+#### 🎨 Hybrid Image Colorization (U-Net + Attention + PatchGAN + Perceptual Loss)
+- 🌈 Developed an advanced **image colorization GAN** using **U-Net encoder-decoder** with decoder-side **attention blocks**.
+- 🖼 Color space: Trained in **LAB color space**, using L channel as input and AB as target.
+- 🎨 Discriminator: Used **PatchGAN** to guide local color realism.
+- 📊 Integrated **VGG16-based perceptual loss**, **color consistency loss**, and evaluated using **SSIM (92%)** and **PSNR (88%)**.
+- 🔁 Progressive resolution training and extensive augmentation strategies (rotation, flipping, color jitter).
+- 🧪 Tools: PyTorch, NumPy, OpenCV, Matplotlib, Scikit-learn.
+
+#### 🏦 Credit Risk Prediction & Explainability
+- 📉 Created a **binary classifier** for predicting loan default risks using structured financial data.
+- 🧮 Utilized **feature engineering**, **PCA**, and **grid search** for optimized Random Forest performance.
+- 📊 Visualized **feature importances**, SHAP-based explanations, and ROC-AUC metrics.
+- 👤 Built an interactive loan assessment app where users input data and get personalized risk analysis.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack & Toolbelt
 
 ```yaml
-Languages: Python, Java, JavaScript
-Libraries: PyTorch, TensorFlow, Scikit-learn, Keras
-Tools: OpenCV, Streamlit, Matplotlib, Pandas, NumPy, Seaborn
-Models: CNN, RNN, LSTM, ResNet, Random Forest, Hybrid Architectures
-Others: Gemini AI, HuggingFace, FastAPI, Docker (basics), Git/GitHub
+Languages: [ Python, Java, JavaScript ]
+Frameworks: [ PyTorch, TensorFlow, Keras, Scikit-learn ]
+Models: [ CNN, BiLSTM, ResNet, Random Forest, Hybrid GANs, XGBoost ]
+Tools: [ Streamlit, OpenCV, HuggingFace, Matplotlib, Seaborn, FastAPI, Docker (basic) ]
+Utilities: [ Git/GitHub, WandB, Gemini AI, Jupyter, NumPy, Pandas ]
 ```
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash2615&show_icons=true&theme=radical" alt="Akash's stats" />
@@ -73,5 +89,9 @@ Others: Gemini AI, HuggingFace, FastAPI, Docker (basics), Git/GitHub
 
 ### 💡 Quote I Live By
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+> "The best way to predict the future is to invent it." — Alan Kay
+
+---
+
+🔥 If you're passionate about **healthcare AI**, **model interpretability**, or **generative vision systems**, feel free to connect and collaborate!
 
