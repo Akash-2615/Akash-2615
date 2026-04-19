@@ -31,7 +31,7 @@
 class AkashS:
     role        = "Machine Learning Engineer & AI Researcher"
     location    = "India 🇮🇳"
-    focus       = ["Hybrid AI Architectures", "Explainable AI (XAI)", "Medical AI Diagnostics"]
+    focus       = ["Hybrid AI Architectures", "Explainable AI (XAI)", "Medical AI Diagnostics", "Agentic And Generative AI"]
     interests   = ["Healthcare AI", "Generative Vision", "Cross-Modal Fusion", "FinTech AI"]
     research    = ["6G SAGIN Digital Twins · Zero-Touch Autonomous Networks",
                    "O-RAN · SAC DRL Network Slicing · Near-RT RIC · Federated AI"]
