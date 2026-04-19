@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20S&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher%20%7C%20Full%20Stack%20ML%20Developer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20S&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20Full%20Stack%20ML%20Dev&descAlignY=55&descSize=14" />
 
 <br/>
 
@@ -27,25 +27,22 @@
 
 ## 🧬 About Me
 
-```python
-class AkashS:
-    role        = "Machine Learning Engineer & AI Researcher"
-    location    = "India 🇮🇳"
-    focus       = ["Hybrid AI Architectures", "Explainable AI (XAI)", "Medical AI Diagnostics", "Agentic And Generative AI"]
-    interests   = ["Healthcare AI", "Generative Vision", "Cross-Modal Fusion", "FinTech AI"]
-    research    = ["6G SAGIN Digital Twins · Zero-Touch Autonomous Networks",
-                   "O-RAN · SAC DRL Network Slicing · Near-RT RIC · Federated AI"]
-    superpower  = "Converting research prototypes → production-ready systems"
-    
-    def current_mission(self):
-        return "Building AI systems that don't just perform — they explain themselves."
-    
-    def next_frontier(self):
-        return "Zero-Touch 6G networks where AI self-heals, self-routes & self-optimizes."
-```
+<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-> I believe the most powerful AI isn't just accurate — it's **interpretable, trustworthy, and deployable.**
-> My work sits at the intersection of **deep learning research** and **real-world engineering**.
+👋 Hi, I'm **Akash S** — a builder at the intersection of **cutting-edge AI research** and **production-grade engineering**, based in India 🇮🇳.
+
+🤖 **What I do:**
+- Design **Generative AI** pipelines and **LLM-powered** applications with real-world impact
+- Build **ML & Deep Learning** systems across healthcare, finance, vision, and telecom
+- Research **6G SAGIN Digital Twins** and **O-RAN intelligent RAN** architectures
+- Turn complex research into **deployable, explainable, production-ready** systems
+
+🔭 **Currently exploring:**
+- Zero-Touch autonomous 6G networks where AI self-heals, self-routes & self-optimizes
+- Multimodal fusion for medical diagnostics & XAI for trustworthy clinical AI
+- Federated learning & DRL for next-gen network slicing
+
+💡 **Core belief:** The most powerful AI isn't just accurate — it's **interpretable, trustworthy, and deployable.**
 
 ---
 
@@ -230,7 +227,6 @@ An end-to-end real-time simulator for **Deep RL-driven Dynamic Resource Allocati
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash-2615&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 <br/>
 
