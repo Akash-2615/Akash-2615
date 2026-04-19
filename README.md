@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20S&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20Full%20Stack%20ML%20Dev&descAlignY=55&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20S&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher%20%7C%20AI%20Systems%20Builder&descAlignY=55&descSize=13" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CDDFF&center=true&vCenter=true&random=false&width=650&lines=Building+AI+that+explains+itself+%F0%9F%A7%A0;Hybrid+Architectures+%7C+Real-Time+Systems;Healthcare+AI+%7C+Generative+Vision+%7C+FinTech;6G+SAGIN+Digital+Twin+%7C+Zero-Touch+Networks+%F0%9F%9B%B0%EF%B8%8F;O-RAN+%7C+SAC+DRL+%7C+Near-RT+RIC+%7C+Federated+AI+%F0%9F%93%A1;Turning+Research+into+Production+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CDDFF&center=true&vCenter=true&random=false&width=650&lines=Building+AI+that+explains+itself+%F0%9F%A7%A0;Gen+AI+%7C+Data+Science+%7C+Graph+ML+Engineer;Healthcare+AI+%7C+Generative+Vision+%7C+FinTech;6G+SAGIN+Digital+Twin+%7C+Zero-Touch+Networks+%F0%9F%9B%B0%EF%B8%8F;O-RAN+%7C+SAC+DRL+%7C+Near-RT+RIC+%7C+Federated+AI+%F0%9F%93%A1;DiffPool+GNNs+%7C+Graph+Coarsening+%7C+XAI+%F0%9F%94%AC;Turning+Research+into+Production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,14 +33,15 @@
 
 🤖 **What I do:**
 - Design **Generative AI** pipelines and **LLM-powered** applications with real-world impact
-- Build **ML & Deep Learning** systems across healthcare, finance, vision, and telecom
+- Build **ML, Deep Learning & Graph Neural Network** systems across healthcare, finance, vision, and telecom
 - Research **6G SAGIN Digital Twins** and **O-RAN intelligent RAN** architectures
+- Explore **Graph ML** — hierarchical GNN pooling, graph coarsening & 3D topological visualization
 - Turn complex research into **deployable, explainable, production-ready** systems
 
 🔭 **Currently exploring:**
 - Zero-Touch autonomous 6G networks where AI self-heals, self-routes & self-optimizes
+- DiffPool & hierarchical GNNs for bioinformatics & graph classification
 - Multimodal fusion for medical diagnostics & XAI for trustworthy clinical AI
-- Federated learning & DRL for next-gen network slicing
 
 💡 **Core belief:** The most powerful AI isn't just accurate — it's **interpretable, trustworthy, and deployable.**
 
@@ -133,6 +134,21 @@ Transparent ML pipeline for loan default risk assessment.
 - 👤 **App:** Interactive loan assessment dashboard with personalized risk scoring
 
 </td>
+<td width="50%" valign="top">
+
+### 🔬 DiffPool-3D-Lens
+[![Repo](https://img.shields.io/badge/View%20Repo-DiffPool--3D--Lens-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/DiffPool-3D-Lens)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+Interactive platform to train and explore **Differentiable Pooling (DiffPool) GNNs** on the PROTEINS benchmark with immersive real-time 3D visualizations.
+
+- 🧬 **Architecture:** 2-level hierarchical DiffPool — DenseGCNConv blocks with BatchNorm + SELU, soft assignment matrices S₁ & S₂ visualized as 3D point clouds
+- 🌐 **Visualization:** Original → Pool-1 → Pool-2 graph coarsening side-by-side in live 3D; epoch × accuracy × loss rendered as interactive 3D training trajectory
+- 🎯 **Performance:** 72–76% test accuracy on PROTEINS vs. ~70% GCN baseline
+- 🖥️ **Dual Mode:** Real-time Streamlit dashboard OR cell-by-cell Jupyter Notebook with embedded Plotly visuals
+
 </td>
 </tr>
 
@@ -192,6 +208,7 @@ An end-to-end real-time simulator for **Deep RL-driven Dynamic Resource Allocati
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyG](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Backend & Infrastructure**
 
@@ -267,7 +284,7 @@ An end-to-end real-time simulator for **Deep RL-driven Dynamic Resource Allocati
 
 ### 🔥 Open to Collaborate On
 
-**Healthcare AI** · **Model Interpretability** · **Generative Vision** · **Financial Intelligence** · **RAG Systems** · **6G SAGIN Digital Twins** · **O-RAN DRL Slicing**
+**Healthcare AI** · **Model Interpretability** · **Generative Vision** · **Financial Intelligence** · **RAG Systems** · **Graph Neural Networks** · **6G SAGIN Digital Twins** · **O-RAN DRL Slicing**
 
 <br/>
 
