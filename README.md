@@ -87,19 +87,7 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 </div>
 
-## 🎯 Currently Working On
 
-<div align="center">
-
-| Domain | Project | Status |
-|:---:|---|:---:|
-| 🤖 Agentic AI | Extending ArchitectAI with memory-augmented agents & tool use | 🔨 Active |
-| 🛰️ 6G Research | Near-RT RIC + Federated SAC convergence under non-IID data | 🔬 Research |
-| 🧠 Graph ML | Hierarchical DiffPool for protein interaction network classification | 📐 Design |
-| 💊 Healthcare AI | Multimodal LLM for clinical report summarisation + anomaly flagging | 🧪 Prototyping |
-| 📚 Learning | MCP (Model Context Protocol) · LLM Tool Use · Mixture of Experts | 📖 Ongoing |
-
-</div>
 
 <br/>
 
