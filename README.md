@@ -87,6 +87,131 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 </div>
 
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,20,30&height=90&text=%F0%9F%93%8A%20By%20the%20Numbers&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Scale & Performance at a Glance
+
+| 🤖 AI Agents Deployed | ⚙️ Orchestration Phases | 📡 Network Layers Unified | 🔬 Research Domains |
+|:---:|:---:|:---:|:---:|
+| **19** specialised LLMs | **7** fully autonomous stages | **4** (Sat · HAPs · UAV · Ground) | **5** active verticals |
+
+<br/>
+
+| 🎯 Traffic Prediction | 🕵️ Deepfake Detection | 🧠 Parkinson's Detection | 🎨 Image Colorization |
+|:---:|:---:|:---:|:---:|
+| **> 96%** acc — MAML | **> 95%** spatio-temporal | **> 94%** multimodal fusion | **92% SSIM · 88% PSNR** |
+
+<br/>
+
+| ⚡ Real-Time Rendering | 💰 Cost per AI Session | 📂 Financial Data Ingested | 🧬 GNN Benchmark vs Baseline |
+|:---:|:---:|:---:|:---:|
+| **60 FPS** WebGL twin | **$0.30 – $0.80** | **10+ years** SEC filings | **+2–6 pp** over GCN |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,19&height=3"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏁 Hackathons & Competitions
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🚀 HyperVerge AI Hackathon — 2025**
+
+Built the **Forensic Financial Intelligence Suite** under competition conditions — a 3-engine forensic AI system with dual-lane temporal RAG, intelligent OCR routing, and cross-year anomaly detection over 10+ years of SEC filings.
+
+Full production stack shipped: **React/TS · FastAPI · Qdrant · Redis · Celery · Docker · Claude Sonnet · Cohere Rerank v3**
+
+![Status](https://img.shields.io/badge/Status-Active_Participant-FFB347?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-FinTech%20AI%20%2F%20RAG-00FFD4?style=flat-square&logoColor=black)
+![Stack](https://img.shields.io/badge/Stack-Full_Async_Dockerised-8B5CF6?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**🧪 Research-to-Production Builder**
+
+Every project ships as a **working, runnable system** — not just a notebook or a paper. Each has a FastAPI backend, a React/TS or Streamlit frontend, and Dockerised infrastructure.
+
+**8+ complete end-to-end systems** across healthcare, finance, telecom, and computer vision — all with explainability layers and production-ready deployment.
+
+![Systems](https://img.shields.io/badge/Systems_Built-8%2B-FF6EC7?style=flat-square)
+![Standard](https://img.shields.io/badge/Standard-Always_Production_Grade-00FF94?style=flat-square&logoColor=black)
+![XAI](https://img.shields.io/badge/Every_System-Explainability_Layer-FFFF00?style=flat-square&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🔥 Currently Building
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=2200&color=FFB347&center=true&vCenter=true&random=false&width=860&lines=%F0%9F%94%8D+Forensic+Financial+Suite+%E2%80%94+Dual-Lane+RAG+%2B+Anomaly+Detector+over+SEC+Filings;%F0%9F%A4%96+ArchitectAI+%E2%80%94+19-Agent+Debate+Engine+%2B+SSE+Streaming+%2B+PDF+Reports;%F0%9F%9B%B0%EF%B8%8F+6G+SAGIN+%E2%80%94+Digital+Twin+%2B+SAC+RL+%2B+Genetic+NAS+at+60+FPS)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧩 Technical Depth by Domain
+
+| Domain | Depth Level | Flagship Evidence |
+|---|:---:|---|
+| **LLM Orchestration & Agentic AI** | ⬛⬛⬛⬛⬛ Expert | 19-agent debate engine, 7-phase SSE pipeline |
+| **RAG Systems & Vector Search** | ⬛⬛⬛⬛⬛ Expert | Dual-lane temporal RAG, Cohere Rerank v3, Qdrant payload index |
+| **Deep Reinforcement Learning** | ⬛⬛⬛⬛⬜ Advanced | SAC per-BS agents, federated attn-grad agg, 10ms TTI |
+| **Graph Neural Networks** | ⬛⬛⬛⬛⬜ Advanced | DiffPool + live 3D coarsening visualisation |
+| **Explainable AI (XAI)** | ⬛⬛⬛⬛⬛ Expert | SHAP on SAC Actor, Gemini forensics, clinician-readable output |
+| **Multimodal Deep Learning** | ⬛⬛⬛⬛⬜ Advanced | MFCC + biomarker fusion, 3D CNN + LSTM + ResNet |
+| **6G / Telecom AI** | ⬛⬛⬛⬛⬜ Research | SAGIN digital twin, MAML, PSO, Genetic NAS |
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+</div>
+
 ## 🚀 Flagship Projects
 
 <div align="center">
@@ -122,7 +247,16 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 
 </div>
 
-> A real-time **19-agent swarm** that debates, critiques, validates, and synthesises optimal software architectures with full token-by-token streaming transparency. Seven Visionary Architects simultaneously propose solutions; a Devil's Advocate tears them apart with severity-rated critiques; four specialist analysts score cost, feasibility, carbon footprint, and ML-infrastructure readiness; then all agents cross-vote on rival components before a Finaliser synthesises the definitive hybrid architecture — streaming every reasoning token live via SSE and auto-generating downloadable PDF + DOCX reports complete with ADR, risk register, Mermaid diagrams, and 12-month TCO projections.
+<br/>
+
+**What it does:** A real-time **19-agent swarm** that debates, critiques, validates, and synthesises optimal software architectures with full token-by-token streaming transparency.
+
+- 🏗️ **Seven Visionary Architects** simultaneously propose competing solutions from different paradigms
+- ☠️ **One Devil's Advocate** tears every proposal apart with severity-rated, categorised critiques
+- 📊 **Four specialist analysts** independently score cost, feasibility, carbon footprint, and ML-infra readiness
+- 🗳️ All agents then **cross-vote on rival components** before a Finaliser synthesises the definitive hybrid
+- 📡 Every reasoning token streams live via **SSE** — zero black-box decisions, full transparency
+- 📄 Auto-generates **PDF + DOCX** with ADR, risk register, Mermaid diagrams, and 12-month TCO projections
 
 <div align="center">
 
@@ -172,7 +306,19 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 
 </div>
 
-> A longitudinal RAG-powered AI Forensic Auditor ingesting **10+ years of SEC filings** through **dual-lane temporal embeddings** — one for narrative prose, one for quantitative tables — then surfacing anomalies, broken promises, and cross-entity benchmark deviations across time. Three specialised engines work in concert: a **Longitudinal Intelligence Engine** for temporal RAG over annual reports, an **Automated Auditor & Visualiser** with ESG/GAAP table extraction, and a **Forensic Anomaly Detector** for promise-tracking and sentiment divergence. Built on a fully Dockerised async stack of FastAPI, React/TS, Qdrant with payload indexes, PostgreSQL, Redis, and Celery.
+<br/>
+
+**What it does:** A longitudinal RAG-powered forensic auditor that ingests **10+ years of SEC filings** and surfaces what companies promised vs. what they actually delivered — across time.
+
+Three specialised engines working in concert:
+
+| Engine | Role | Key Technology |
+|---|---|---|
+| 🔭 **Longitudinal Intelligence** | Temporal RAG over annual reports | Dual-lane embeddings: prose lane + table lane |
+| 📊 **Automated Auditor & Visualiser** | ESG/GAAP table extraction + mapping | Intelligent multi-engine OCR router |
+| 🚨 **Forensic Anomaly Detector** | Promise-tracking, sentiment divergence | Cross-year deviation scoring |
+
+Built on a fully Dockerised async stack with **Qdrant payload indexes**, **Cohere Rerank v3** for retrieval precision, and **Claude Sonnet** for synthesis.
 
 <div align="center">
 
@@ -218,7 +364,19 @@ SEC Filings → OCR Router → Dual-Lane Embeddings (Prose ║ Tables) → Qdran
 
 </div>
 
-> A real-time **Digital Twin for 6G Space-Air-Ground Integrated Networks** running a 5-stage autonomous AI pipeline: **CNN-Transformer Traffic Predictor** (MAML, >96% accuracy) → **JPTA Beam Scheduler** → **40-particle PSO Link Optimizer** → **SAC RL Network Slicer** → live **Genetic NAS** — unified across Satellite, HAPs, UAV, and Terrestrial layers, with a Gemini 1.5 Space-Ops LLM copilot and a **holographic WebGL dashboard** at 60 FPS.
+<br/>
+
+**What it does:** A real-time **Digital Twin for 6G Space-Air-Ground Integrated Networks** — a 5-stage fully autonomous AI pipeline unified across every layer of the network.
+
+| Stage | Component | Result |
+|:---:|---|---|
+| **1** | CNN-Transformer Traffic Predictor + MAML | **> 96% accuracy** on traffic forecasting |
+| **2** | JPTA Beam Scheduler | Joint power-time-allocation per network layer |
+| **3** | 40-Particle PSO Link Optimizer | Real-time link budget optimisation |
+| **4** | SAC RL Network Slicer | Autonomous, reward-driven slice management |
+| **5** | Genetic NAS | Live neural architecture search in-deployment |
+
+Layers covered: **Satellite · HAPs · UAV · Terrestrial** — with a Gemini 1.5 Space-Ops LLM copilot and a holographic **WebGL dashboard running at 60 FPS**.
 
 <div align="center">
 
@@ -263,7 +421,14 @@ Traffic Forecast (CNN-Transformer+MAML) ──► Beam Schedule (JPTA) ──►
 
 </div>
 
-> An end-to-end real-time **5G O-RAN simulator** with per-base-station **Soft Actor-Critic agents** managing eMBB / URLLC / mMTC slices at 10 ms TTI granularity under a 3GPP Rayleigh fading channel model. Coordination through **federated learning with attention-weighted gradient aggregation**; explainability via **perturbation-based SHAP on the SAC Actor**; and a full **Near-RT RIC simulation** handling E2 interface and multi-xApp conflict resolution live.
+<br/>
+
+**What it does:** An end-to-end real-time **5G O-RAN simulator** with per-base-station RL agents, federated coordination, and full explainability on every scheduling decision.
+
+- ⚡ **Per-BS Soft Actor-Critic agents** manage **eMBB / URLLC / mMTC** slices at **10 ms TTI granularity** under a 3GPP Rayleigh fading channel model
+- 🤝 **Federated learning** with attention-weighted gradient aggregation coordinates agents without centralised data sharing
+- 🔍 **Perturbation-based SHAP on the SAC Actor** — every slice allocation decision is explainable and auditable
+- 🏗️ Full **Near-RT RIC simulation** handling E2 interface handshake and **multi-xApp conflict resolution** live
 
 <div align="center">
 
@@ -302,11 +467,12 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 ### 🎥 Deep Fake Detector
 [![Repo](https://img.shields.io/badge/GitHub-Deep_Fake_Detector-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Deep_Fake_Detector)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_XAI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-> A multi-stream hybrid classifier combining 3D CNN, ResNet, and Bidirectional LSTM to detect synthetic video through spatio-temporal feature fusion at 95%+ accuracy. Gemini AI delivers frame-level narrative forensics per clip. Deployed as a real-time Streamlit app with live webcam recording, frame visualisation, and per-clip explainability reports.
+A **multi-stream hybrid classifier** combining 3D CNN, ResNet, and Bidirectional LSTM for spatio-temporal feature fusion — detecting synthetic video at **95%+ accuracy**. Gemini AI delivers frame-level narrative forensics per clip. Deployed as a real-time Streamlit app with live webcam recording and per-clip explainability reports.
 
 ![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-00FF94?style=flat-square&logoColor=black)
 ![XAI](https://img.shields.io/badge/XAI-Gemini_Frame_Forensics-FF6EC7?style=flat-square)
@@ -319,11 +485,12 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 ### 🎨 Automatic Image Colorization
 [![Repo](https://img.shields.io/badge/GitHub-Automatic_Image_Colourization-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Automatic_Image_Colourization)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![GAN](https://img.shields.io/badge/GAN-PatchGAN-FF6EC7?style=flat-square)
 ![LAB](https://img.shields.io/badge/Colour_Space-LAB-00FFD4?style=flat-square&logoColor=black)
 
-> A GAN-based colorization system operating in LAB colour space — feeding the L (lightness) channel into a U-Net encoder-decoder with attention blocks to predict AB chrominance, adversarially sharpened by a PatchGAN discriminator. VGG16 perceptual loss and colour consistency loss push SSIM to 92% and PSNR to 88%, producing photorealistic restorations on grayscale historical images.
+A **GAN-based colorization system** in LAB colour space — L channel feeds a U-Net encoder-decoder with attention blocks to predict AB chrominance, sharpened adversarially by a PatchGAN discriminator. VGG16 perceptual loss + colour consistency loss push **SSIM to 92%** and **PSNR to 88%** on grayscale historical images.
 
 ![SSIM](https://img.shields.io/badge/SSIM-92%25-00FF94?style=flat-square&logoColor=black)
 ![PSNR](https://img.shields.io/badge/PSNR-88%25-00FFD4?style=flat-square&logoColor=black)
@@ -339,12 +506,13 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 ### 🔬 DiffPool-3D-Lens
 [![Repo](https://img.shields.io/badge/GitHub-DiffPool--3D--Lens-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/DiffPool-3D-Lens)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyG](https://img.shields.io/badge/PyG-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly_3D-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-> An interactive research platform to train and dissect Differentiable Pooling GNNs on the PROTEINS benchmark, rendering the full 2-level coarsening hierarchy (Original → Pool-1 → Pool-2) as live 3D point clouds side-by-side, with soft assignment matrices S₁ and S₂ visualised in real-time and the epoch × accuracy × loss surface as an interactive 3D training trajectory.
+An **interactive GNN research platform** for Differentiable Pooling — renders the full 2-level coarsening hierarchy (Original → Pool-1 → Pool-2) as live 3D point clouds, with soft assignment matrices S₁ and S₂ in real-time and the epoch × accuracy × loss surface as an **interactive 3D training trajectory**.
 
 ![Acc](https://img.shields.io/badge/Accuracy-72%E2%80%9376%25_PROTEINS-00FF94?style=flat-square&logoColor=black)
 ![vs](https://img.shields.io/badge/vs_GCN-~70%25_baseline-FFFF00?style=flat-square&logoColor=black)
@@ -357,11 +525,12 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 ### 🧠 Parkinson's Disease Detection
 [![Repo](https://img.shields.io/badge/GitHub-Parkinson_Disease_prediction-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Parkinson_Disease_prediction)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_XAI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Multimodal](https://img.shields.io/badge/Input-MFCC_%2B_Biomarkers-FF6EC7?style=flat-square)
 
-> A dual-path multimodal pipeline fusing audio MFCC features with CSV patient biomarkers through a Random Forest + RNN + LSTM ensemble for >94% early-stage Parkinson's detection accuracy. Gemini AI generates plain-language explanations of each prediction for non-technical clinicians — bridging the gap between ML confidence scores and real-world clinical decision-making.
+A **dual-path multimodal pipeline** fusing audio MFCC features with CSV patient biomarkers through a Random Forest + RNN + LSTM ensemble for **>94% early-stage Parkinson's detection**. Gemini AI generates plain-language explanations per prediction — bridging ML confidence scores and real-world clinical decision-making.
 
 ![Accuracy](https://img.shields.io/badge/Accuracy->94%25-00FF94?style=flat-square&logoColor=black)
 ![XAI](https://img.shields.io/badge/XAI-Clinician--Readable-FFB347?style=flat-square)
@@ -377,11 +546,12 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 ### 🏦 Credit Risk Prediction & Explainability
 [![Repo](https://img.shields.io/badge/GitHub-CREDIT_RISK_PREDICTION-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/CREDIT_RISK_PREDICTION)
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-XAI-8B5CF6?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-> A transparent ML pipeline for loan default risk assessment pairing a PCA-compressed, GridSearchCV-optimised Random Forest with SHAP-based feature attribution to make every credit decision fully auditable. The interactive Streamlit dashboard delivers personalised per-applicant risk scoring with ROC-AUC drill-downs — designed for regulatory scrutiny from the ground up.
+A **transparent ML pipeline** for loan default risk assessment — PCA-compressed, GridSearchCV-optimised Random Forest paired with SHAP feature attribution to make every credit decision fully auditable. The interactive Streamlit dashboard delivers **personalised per-applicant risk scoring** with ROC-AUC drill-downs, designed for regulatory scrutiny from the ground up.
 
 ![SHAP](https://img.shields.io/badge/Explainability-SHAP_Attribution-8B5CF6?style=flat-square)
 ![Compliance](https://img.shields.io/badge/Design-Audit_Ready-FFB347?style=flat-square)
@@ -483,23 +653,21 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=3" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
 </div>
 
 <br/>
-
-
 
 ---
 
 ## 💡 Philosophy
 
 <div align="center">
-
-<br/>
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
 
 <br/>
 
