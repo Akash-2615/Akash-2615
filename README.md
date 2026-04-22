@@ -483,12 +483,8 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Akash's GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=3" alt="GitHub Trophies" />
 </div>
 
 <br/>
