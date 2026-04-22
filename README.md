@@ -383,7 +383,7 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
