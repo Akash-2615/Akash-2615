@@ -84,18 +84,28 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 </div>
 
 ## 🚀 Flagship Projects
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&text=%E2%AD%90%20FEATURED%20PROJECTS&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=4%20Production-Grade%20AI%20Systems%20at%20the%20Research%20Frontier&descAlignY=72&descSize=16"/>
+
+</div>
+
 <br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     FLAGSHIP 01 — ARCHITECTAI  (Most Complex · Crown Jewel)
+     ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&text=%E2%AD%90%20FEATURED%20PROJECT&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,19,20&height=80&text=%F0%9F%A5%87%20%20FLAGSHIP%20I%20%E2%80%94%20Agentic%20AI%20%20%F0%9F%A5%87&fontSize=26&fontColor=ffffff&animation=blinking"/>
 
 ### 🤖 ArchitectAI — Multi-Agent Architecture Debate System
 
@@ -129,69 +139,163 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=2"/>
+</div>
+
 <br/>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- ════════════════════════════════════════════════════════════
+     FLAGSHIP 02 — FORENSIC FINANCIAL SUITE  (Applied GenAI · RAG)
+     ════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,19&height=80&text=%F0%9F%A5%88%20%20FLAGSHIP%20II%20%E2%80%94%20Applied%20GenAI%20%2F%20RAG%20%20%F0%9F%A5%88&fontSize=26&fontColor=ffffff&animation=blinking"/>
 
 ### 🕵️ Forensic Financial Intelligence Suite
-[![Repo](https://img.shields.io/badge/GitHub-Forensic_Financial_Suite-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Forensic_Financial_Suite)
+
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-Forensic_Financial_Suite-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/Forensic_Financial_Suite)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Sonnet-D97757?style=flat-square&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere_Rerank_v3-39594B?style=flat-square&logoColor=white)
 
-> A longitudinal RAG-powered AI Forensic Auditor ingesting 10+ years of SEC filings through dual-lane temporal embeddings — one for narrative prose, one for quantitative tables — then surfacing anomalies, broken promises, and cross-entity benchmark deviations across time. Built on a fully Dockerised async stack of FastAPI, React/TS, Qdrant, PostgreSQL, Redis, and Celery.
+</div>
+
+> A longitudinal RAG-powered AI Forensic Auditor ingesting **10+ years of SEC filings** through **dual-lane temporal embeddings** — one for narrative prose, one for quantitative tables — then surfacing anomalies, broken promises, and cross-entity benchmark deviations across time. Three specialised engines work in concert: a **Longitudinal Intelligence Engine** for temporal RAG over annual reports, an **Automated Auditor & Visualiser** with ESG/GAAP table extraction, and a **Forensic Anomaly Detector** for promise-tracking and sentiment divergence. Built on a fully Dockerised async stack of FastAPI, React/TS, Qdrant with payload indexes, PostgreSQL, Redis, and Celery.
+
+<div align="center">
+
+```
+SEC Filings → OCR Router → Dual-Lane Embeddings (Prose ║ Tables) → Qdrant Payload Index
+    ──►  Cohere Rerank v3  ──►  Claude Sonnet Synthesis  ──►  Anomaly + Sentiment Report
+```
 
 ![RAG](https://img.shields.io/badge/RAG-Dual--Lane_Temporal-00FFD4?style=flat-square&logoColor=black)
+![Engines](https://img.shields.io/badge/Engines-3_Specialised_AI-FF6EC7?style=flat-square)
 ![Stack](https://img.shields.io/badge/Async-FastAPI_%C2%B7_Qdrant_%C2%B7_Celery-8B5CF6?style=flat-square)
 ![Dockerized](https://img.shields.io/badge/Deploy-Fully_Dockerised-2496ED?style=flat-square)
+![Rerank](https://img.shields.io/badge/Retrieval-Cohere_Rerank_v3-FFB347?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19&height=3"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,19&height=2"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     FLAGSHIP 03 — 6G SAGIN  (Research · Autonomous Networks)
+     ════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,9,20&height=80&text=%F0%9F%A5%89%20%20FLAGSHIP%20III%20%E2%80%94%20Autonomous%20Networks%20%F0%9F%A5%89&fontSize=26&fontColor=ffffff&animation=blinking"/>
 
 ### 🛰️ 6G SAGIN AI Command Center
-[![Repo](https://img.shields.io/badge/GitHub-6G--SAGIN--AI-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/6G-SAGIN-AI-Synergistic-optimisation-)
+
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-6G--SAGIN--AI-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/6G-SAGIN-AI-Synergistic-optimisation-)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_1.5-4285F4?style=flat-square&logo=google&logoColor=white)
+![MAML](https://img.shields.io/badge/Meta--Learning-MAML-FF6EC7?style=flat-square)
+![SAC](https://img.shields.io/badge/RL-Soft_Actor--Critic-8B5CF6?style=flat-square)
 
-> A real-time Digital Twin for 6G Space-Air-Ground Integrated Networks running a 5-stage autonomous AI pipeline: CNN-Transformer Traffic Predictor (MAML, >96% acc) → JPTA Beam Scheduler → 40-particle PSO Link Optimizer → SAC RL Network Slicer → live Genetic NAS — unified across Satellite, HAPs, UAV, and Terrestrial layers, with a Gemini 1.5 Space-Ops LLM copilot and a holographic WebGL dashboard at 60 FPS.
+</div>
 
-![Acc](https://img.shields.io/badge/Traffic_Predictor->96%25-00FF94?style=flat-square&logoColor=black)
-![Scope](https://img.shields.io/badge/Scope-Full_SAGIN_Stack-FF6EC7?style=flat-square)
+> A real-time **Digital Twin for 6G Space-Air-Ground Integrated Networks** running a 5-stage autonomous AI pipeline: **CNN-Transformer Traffic Predictor** (MAML, >96% accuracy) → **JPTA Beam Scheduler** → **40-particle PSO Link Optimizer** → **SAC RL Network Slicer** → live **Genetic NAS** — unified across Satellite, HAPs, UAV, and Terrestrial layers, with a Gemini 1.5 Space-Ops LLM copilot and a **holographic WebGL dashboard** at 60 FPS.
+
+<div align="center">
+
+```
+Traffic Forecast (CNN-Transformer+MAML) ──► Beam Schedule (JPTA) ──► Link Opt (40-PSO)
+        ──►  Network Slicing (SAC RL)  ──►  Arch Search (Genetic NAS)  ──►  60 FPS WebGL
+```
+
+![Acc](https://img.shields.io/badge/Traffic_Predictor->96%25_Acc-00FF94?style=flat-square&logoColor=black)
+![Layers](https://img.shields.io/badge/Coverage-Sat_%C2%B7_HAPs_%C2%B7_UAV_%C2%B7_Ground-00FFD4?style=flat-square&logoColor=black)
+![Pipeline](https://img.shields.io/badge/Pipeline-5_Stage_Autonomous_AI-FF6EC7?style=flat-square)
 ![FPS](https://img.shields.io/badge/WebGL-60_FPS_Dashboard-FFB347?style=flat-square)
+![Copilot](https://img.shields.io/badge/LLM-Gemini_1.5_Space--Ops-4285F4?style=flat-square)
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9,20&height=2"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9&height=3"/>
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     FLAGSHIP 04 — 5G O-RAN  (Research · DRL + XAI)
+     ════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,24,30&height=80&text=%F0%9F%8F%85%20%20FLAGSHIP%20IV%20%E2%80%94%20DRL%20%2B%20XAI%20Research%20%F0%9F%8F%85&fontSize=26&fontColor=ffffff&animation=blinking"/>
 
 ### 📡 5G DRL O-RAN Network Slicing Simulator
-[![Repo](https://img.shields.io/badge/GitHub-O--RAN_ARCHITECTURE-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/O-RAN_ARCHITECTURE)
+
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-O--RAN_ARCHITECTURE-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/O-RAN_ARCHITECTURE)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-XAI-8B5CF6?style=flat-square)
-
-> An end-to-end real-time 5G O-RAN simulator with per-base-station Soft Actor-Critic agents managing eMBB / URLLC / mMTC slices at 10ms TTI granularity under a 3GPP Rayleigh fading channel model. Coordination through federated learning with attention-weighted gradient aggregation; explainability via perturbation-based SHAP on the SAC Actor; and a full Near-RT RIC simulation handling E2 interface and multi-xApp conflict resolution live.
-
-![Agents](https://img.shields.io/badge/RL-Per--BS_SAC_Agents-8B5CF6?style=flat-square)
-![XAI](https://img.shields.io/badge/XAI-SHAP_on_SAC_Actor-FFB347?style=flat-square)
+![SAC](https://img.shields.io/badge/RL-Soft_Actor--Critic-FF6EC7?style=flat-square)
 ![Federated](https://img.shields.io/badge/FL-Attn_Gradient_Agg-00FFD4?style=flat-square&logoColor=black)
 
-</td>
+</div>
+
+> An end-to-end real-time **5G O-RAN simulator** with per-base-station **Soft Actor-Critic agents** managing eMBB / URLLC / mMTC slices at 10 ms TTI granularity under a 3GPP Rayleigh fading channel model. Coordination through **federated learning with attention-weighted gradient aggregation**; explainability via **perturbation-based SHAP on the SAC Actor**; and a full **Near-RT RIC simulation** handling E2 interface and multi-xApp conflict resolution live.
+
+<div align="center">
+
+```
+Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-Weighted Agg
+        ──►  SHAP XAI on SAC Actor  ──►  Near-RT RIC  ──►  E2 Interface + xApp Resolver
+```
+
+![Agents](https://img.shields.io/badge/RL-Per--BS_SAC_Agents-8B5CF6?style=flat-square)
+![Slices](https://img.shields.io/badge/Slices-eMBB_%C2%B7_URLLC_%C2%B7_mMTC-FF6EC7?style=flat-square)
+![XAI](https://img.shields.io/badge/XAI-SHAP_on_SAC_Actor-FFB347?style=flat-square)
+![FL](https://img.shields.io/badge/FL-Attn_Gradient_Agg-00FFD4?style=flat-square&logoColor=black)
+![RIC](https://img.shields.io/badge/Near--RT_RIC-E2_%2B_xApp_Conflict-FFFF00?style=flat-square&logoColor=black)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,30&height=2"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,5,12,30&height=100&text=%E2%9A%97%EF%B8%8F%20MORE%20PROJECTS&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+</div>
+
+<br/>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=3"/>
@@ -202,16 +306,13 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_XAI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-> A multi-stream hybrid classifier combining 3D CNN, ResNet, and Bidirectional LSTM to detect synthetic video through spatio-temporal feature fusion at 95%+ accuracy. Gemini AI delivers frame-level narrative forensics per clip. Deployed as a real-time Streamlit app with live webcam recording, frame visualisation, and per-clip explainability reports for non-technical auditors.
+> A multi-stream hybrid classifier combining 3D CNN, ResNet, and Bidirectional LSTM to detect synthetic video through spatio-temporal feature fusion at 95%+ accuracy. Gemini AI delivers frame-level narrative forensics per clip. Deployed as a real-time Streamlit app with live webcam recording, frame visualisation, and per-clip explainability reports.
 
 ![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-00FF94?style=flat-square&logoColor=black)
 ![XAI](https://img.shields.io/badge/XAI-Gemini_Frame_Forensics-FF6EC7?style=flat-square)
 ![Fusion](https://img.shields.io/badge/Fusion-3D_CNN_%2B_LSTM-FFB347?style=flat-square)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,30&height=3"/>
@@ -222,16 +323,19 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 ![GAN](https://img.shields.io/badge/GAN-PatchGAN-FF6EC7?style=flat-square)
 ![LAB](https://img.shields.io/badge/Colour_Space-LAB-00FFD4?style=flat-square&logoColor=black)
 
-> A GAN-based colorization system operating in LAB colour space — feeding the L (lightness) channel into a U-Net encoder-decoder with attention blocks to predict AB chrominance, adversarially sharpened by a PatchGAN discriminator. VGG16 perceptual loss and colour consistency loss together push SSIM to 92% and PSNR to 88%, producing photorealistic palette restorations on grayscale historical images.
+> A GAN-based colorization system operating in LAB colour space — feeding the L (lightness) channel into a U-Net encoder-decoder with attention blocks to predict AB chrominance, adversarially sharpened by a PatchGAN discriminator. VGG16 perceptual loss and colour consistency loss push SSIM to 92% and PSNR to 88%, producing photorealistic restorations on grayscale historical images.
 
 ![SSIM](https://img.shields.io/badge/SSIM-92%25-00FF94?style=flat-square&logoColor=black)
 ![PSNR](https://img.shields.io/badge/PSNR-88%25-00FFD4?style=flat-square&logoColor=black)
 ![Loss](https://img.shields.io/badge/Loss-VGG16_Perceptual-8B5CF6?style=flat-square)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3"/>
 
 ### 🔬 DiffPool-3D-Lens
 [![Repo](https://img.shields.io/badge/GitHub-DiffPool--3D--Lens-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/DiffPool-3D-Lens)
@@ -240,16 +344,13 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly_3D-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-> An interactive research platform to train and dissect Differentiable Pooling GNNs on the PROTEINS benchmark, rendering the full 2-level coarsening hierarchy (Original → Pool-1 → Pool-2) as live 3D point clouds side-by-side, with soft assignment matrices S₁ and S₂ visualised in real-time and the epoch × accuracy × loss surface as an interactive 3D training trajectory — available as both a live Streamlit dashboard and a cell-by-cell Jupyter Notebook.
+> An interactive research platform to train and dissect Differentiable Pooling GNNs on the PROTEINS benchmark, rendering the full 2-level coarsening hierarchy (Original → Pool-1 → Pool-2) as live 3D point clouds side-by-side, with soft assignment matrices S₁ and S₂ visualised in real-time and the epoch × accuracy × loss surface as an interactive 3D training trajectory.
 
 ![Acc](https://img.shields.io/badge/Accuracy-72%E2%80%9376%25_PROTEINS-00FF94?style=flat-square&logoColor=black)
 ![vs](https://img.shields.io/badge/vs_GCN-~70%25_baseline-FFFF00?style=flat-square&logoColor=black)
 ![Viz](https://img.shields.io/badge/Viz-Live_3D_Coarsening-FF6EC7?style=flat-square)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5&height=3"/>
@@ -267,7 +368,10 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 ![Modal](https://img.shields.io/badge/Type-Multimodal_Fusion-8B5CF6?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td width="50%" valign="top" colspan="2">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,12&height=3"/>
 
