@@ -489,6 +489,16 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 <br/>
 
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Akash-2615&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&icon_color=00FFD4&text_color=ffffff&ring_color=FF6EC7&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</div>
+
+<br/>
 ---
 
 ## 💡 Philosophy
