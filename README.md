@@ -546,6 +546,8 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 <div align="center">
 
 <br/>
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
 
 > *"What I cannot create, I do not understand."* — Richard Feynman
 
