@@ -109,7 +109,7 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 
 ### 🤖 ArchitectAI — Multi-Agent Architecture Debate System
 
-[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-ArchitectAI-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/ArchitectAI)
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-ArchitectAI-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/Architect-AI)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -487,7 +487,7 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -502,6 +502,10 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 <br/>
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
+
+<br/>
+
+> *"What I cannot create, I do not understand."* — Richard Feynman
 
 <br/>
 
