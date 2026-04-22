@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=220&section=header&text=Akash%20S&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=58&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Akash%20S&fontSize=76&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=58&descSize=14" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Architecting+Multi-Agent+AI+Systems+from+Scratch+%F0%9F%A4%96;19-Agent+Debate+Engines+%7C+LLM+Orchestration+%7C+SSE+Streaming;Gen+AI+%7C+Deep+Learning+%7C+Graph+Neural+Networks+%F0%9F%A7%A0;6G+SAGIN+Digital+Twin+%7C+Zero-Touch+Networks+%F0%9F%9B%B0%EF%B8%8F;O-RAN+%7C+SAC+DRL+%7C+Near-RT+RIC+%7C+Federated+AI+%F0%9F%93%A1;DiffPool+GNNs+%7C+Graph+Coarsening+%7C+XAI+%F0%9F%94%AC;Turning+Frontier+Research+into+Production+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00FFD4&center=true&vCenter=true&random=false&width=920&lines=Architecting+Multi-Agent+AI+Systems+from+Scratch+%F0%9F%A4%96;19-Agent+Debate+Engines+%7C+LLM+Orchestration+%7C+SSE+Streaming;Gen+AI+%7C+Deep+Learning+%7C+Graph+Neural+Networks+%F0%9F%A7%A0;6G+SAGIN+Digital+Twin+%7C+Zero-Touch+Networks+%F0%9F%9B%B0%EF%B8%8F;O-RAN+%7C+SAC+DRL+%7C+Near-RT+RIC+%7C+Federated+AI+%F0%9F%93%A1;DiffPool+GNNs+%7C+Graph+Coarsening+%7C+XAI+%F0%9F%94%AC;Turning+Frontier+Research+into+Production+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -16,12 +18,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:akash2612005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Akash-2615">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Akash-2615&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Akash-2615&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -29,9 +31,13 @@
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+</div>
+
 ## 🧬 About Me
 
-<img align="right" width="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
+<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=ffffff" />
 
 👋 Hi, I'm **Akash S** — a builder at the intersection of **cutting-edge AI research** and **production-grade engineering**, based in India 🇮🇳.
 
@@ -73,23 +79,34 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 
 > 💡 **Core belief:** The most powerful AI isn't just accurate — it's **interpretable, trustworthy, collaborative, and deployable at scale.**
 
----
-
-## 🚀 Flagship Projects
+<br/>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3"/>
+</div>
 
-### ⭐ ArchitectAI — Multi-Agent Architecture Debate System
+## 🚀 Flagship Projects
 
-[![Repo](https://img.shields.io/badge/%E2%98%85_FEATURED_PROJECT-ArchitectAI-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-2615/Architect-AI)
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&text=%E2%AD%90%20FEATURED%20PROJECT&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+
+<br/><br/>
+
+### 🤖 ArchitectAI — Multi-Agent Architecture Debate System
+
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-ArchitectAI-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/ArchitectAI)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-SSE_Streaming-FF6EC7?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -100,15 +117,15 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 <div align="center">
 
 ```
-P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML + Sustainability
-       → P4: Agent Revisions → P5: Cross-Voting → P6: Synthesis → P7: Report Gen
+P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + Validation + ML + Carbon
+       ──►  P4: Agent Revisions  ──►  P5: Cross-Voting  ──►  P6: Synthesis  ──►  P7: Reports
 ```
 
-![Agents](https://img.shields.io/badge/Agents-19_Specialised_LLMs-00d9ff?style=flat-square)
-![Phases](https://img.shields.io/badge/Phases-7_Orchestrated-blueviolet?style=flat-square)
-![Streaming](https://img.shields.io/badge/Streaming-Real--Time_SSE-brightgreen?style=flat-square)
-![Output](https://img.shields.io/badge/Output-PDF_+_DOCX_+_ADR-orange?style=flat-square)
-![Cost](https://img.shields.io/badge/Per_Session-%240.30%E2%80%930.80-yellow?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-19_Specialised_LLMs-00FFD4?style=flat-square&logoColor=black)
+![Phases](https://img.shields.io/badge/Phases-7_Orchestrated-FF6EC7?style=flat-square)
+![Streaming](https://img.shields.io/badge/Live-Real--Time_SSE-00FF94?style=flat-square)
+![Output](https://img.shields.io/badge/Output-PDF_%2B_DOCX_%2B_ADR-FFB347?style=flat-square)
+![Cost](https://img.shields.io/badge/Per_Session-%240.30%E2%80%930.80-FFFF00?style=flat-square&logoColor=black)
 
 </div>
 
@@ -120,31 +137,39 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3"/>
+
 ### 🕵️ Forensic Financial Intelligence Suite
-[![Repo](https://img.shields.io/badge/View%20Repo-Forensic_Financial_Suite-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Forensic_Financial_Suite)
+[![Repo](https://img.shields.io/badge/GitHub-Forensic_Financial_Suite-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Forensic_Financial_Suite)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 > A longitudinal RAG-powered AI Forensic Auditor ingesting 10+ years of SEC filings through dual-lane temporal embeddings — one for narrative prose, one for quantitative tables — then surfacing anomalies, broken promises, and cross-entity benchmark deviations across time. Built on a fully Dockerised async stack of FastAPI, React/TS, Qdrant, PostgreSQL, Redis, and Celery.
 
-![RAG](https://img.shields.io/badge/RAG-Dual--Lane_Temporal-00d9ff?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-FastAPI_%C2%B7_Qdrant_%C2%B7_Celery-blueviolet?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Dual--Lane_Temporal-00FFD4?style=flat-square&logoColor=black)
+![Stack](https://img.shields.io/badge/Async-FastAPI_%C2%B7_Qdrant_%C2%B7_Celery-8B5CF6?style=flat-square)
+![Dockerized](https://img.shields.io/badge/Deploy-Fully_Dockerised-2496ED?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19&height=3"/>
+
 ### 🛰️ 6G SAGIN AI Command Center
-[![Repo](https://img.shields.io/badge/View%20Repo-6G--SAGIN--AI-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/6G-SAGIN-AI-Synergistic-optimisation-)
+[![Repo](https://img.shields.io/badge/GitHub-6G--SAGIN--AI-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/6G-SAGIN-AI-Synergistic-optimisation-)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5-4285F4?style=flat-square&logo=google&logoColor=white)
 
-> A real-time Digital Twin for 6G Space-Air-Ground Integrated Networks running a 5-stage autonomous AI pipeline: CNN-Transformer Traffic Predictor (MAML, >96% acc) → JPTA Beam Scheduler → 40-particle PSO Link Optimizer → SAC RL Network Slicer → live Genetic NAS — unified across Satellite, HAPs, UAV, and Terrestrial layers, with a Gemini 1.5 Space-Ops LLM copilot and a holographic WebGL dashboard rendering at 60 FPS.
+> A real-time Digital Twin for 6G Space-Air-Ground Integrated Networks running a 5-stage autonomous AI pipeline: CNN-Transformer Traffic Predictor (MAML, >96% acc) → JPTA Beam Scheduler → 40-particle PSO Link Optimizer → SAC RL Network Slicer → live Genetic NAS — unified across Satellite, HAPs, UAV, and Terrestrial layers, with a Gemini 1.5 Space-Ops LLM copilot and a holographic WebGL dashboard at 60 FPS.
 
-![Acc](https://img.shields.io/badge/Traffic_Predictor->96%25_Acc-brightgreen?style=flat-square)
-![Scope](https://img.shields.io/badge/Scope-Full_SAGIN_Stack-00d9ff?style=flat-square)
+![Acc](https://img.shields.io/badge/Traffic_Predictor->96%25-00FF94?style=flat-square&logoColor=black)
+![Scope](https://img.shields.io/badge/Scope-Full_SAGIN_Stack-FF6EC7?style=flat-square)
+![FPS](https://img.shields.io/badge/WebGL-60_FPS_Dashboard-FFB347?style=flat-square)
 
 </td>
 </tr>
@@ -152,28 +177,36 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9&height=3"/>
+
 ### 📡 5G DRL O-RAN Network Slicing Simulator
-[![Repo](https://img.shields.io/badge/View%20Repo-O--RAN_ARCHITECTURE-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/O-RAN_ARCHITECTURE)
+[![Repo](https://img.shields.io/badge/GitHub-O--RAN_ARCHITECTURE-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/O-RAN_ARCHITECTURE)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-XAI-8B5CF6?style=flat-square)
 
 > An end-to-end real-time 5G O-RAN simulator with per-base-station Soft Actor-Critic agents managing eMBB / URLLC / mMTC slices at 10ms TTI granularity under a 3GPP Rayleigh fading channel model. Coordination through federated learning with attention-weighted gradient aggregation; explainability via perturbation-based SHAP on the SAC Actor; and a full Near-RT RIC simulation handling E2 interface and multi-xApp conflict resolution live.
 
-![Agents](https://img.shields.io/badge/RL-Per--BS_SAC_Agents-blueviolet?style=flat-square)
-![XAI](https://img.shields.io/badge/XAI-SHAP_on_SAC_Actor-orange?style=flat-square)
+![Agents](https://img.shields.io/badge/RL-Per--BS_SAC_Agents-8B5CF6?style=flat-square)
+![XAI](https://img.shields.io/badge/XAI-SHAP_on_SAC_Actor-FFB347?style=flat-square)
+![Federated](https://img.shields.io/badge/FL-Attn_Gradient_Agg-00FFD4?style=flat-square&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=3"/>
+
 ### 🎥 Deep Fake Detector
-[![Repo](https://img.shields.io/badge/View%20Repo-Deep_Fake_Detector-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Deep_Fake_Detector)
+[![Repo](https://img.shields.io/badge/GitHub-Deep_Fake_Detector-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Deep_Fake_Detector)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_XAI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 > A multi-stream hybrid classifier combining 3D CNN, ResNet, and Bidirectional LSTM to detect synthetic video through spatio-temporal feature fusion at 95%+ accuracy. Gemini AI delivers frame-level narrative forensics per clip. Deployed as a real-time Streamlit app with live webcam recording, frame visualisation, and per-clip explainability reports for non-technical auditors.
 
-![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-brightgreen?style=flat-square)
-![XAI](https://img.shields.io/badge/XAI-Gemini_Frame_Forensics-00d9ff?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-00FF94?style=flat-square&logoColor=black)
+![XAI](https://img.shields.io/badge/XAI-Gemini_Frame_Forensics-FF6EC7?style=flat-square)
+![Fusion](https://img.shields.io/badge/Fusion-3D_CNN_%2B_LSTM-FFB347?style=flat-square)
 
 </td>
 </tr>
@@ -181,28 +214,37 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,30&height=3"/>
+
 ### 🎨 Automatic Image Colorization
-[![Repo](https://img.shields.io/badge/View%20Repo-Automatic_Image_Colourization-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Automatic_Image_Colourization)
+[![Repo](https://img.shields.io/badge/GitHub-Automatic_Image_Colourization-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Automatic_Image_Colourization)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![GAN](https://img.shields.io/badge/GAN-PatchGAN-FF6EC7?style=flat-square)
+![LAB](https://img.shields.io/badge/Colour_Space-LAB-00FFD4?style=flat-square&logoColor=black)
 
 > A GAN-based colorization system operating in LAB colour space — feeding the L (lightness) channel into a U-Net encoder-decoder with attention blocks to predict AB chrominance, adversarially sharpened by a PatchGAN discriminator. VGG16 perceptual loss and colour consistency loss together push SSIM to 92% and PSNR to 88%, producing photorealistic palette restorations on grayscale historical images.
 
-![SSIM](https://img.shields.io/badge/SSIM-92%25-brightgreen?style=flat-square)
-![PSNR](https://img.shields.io/badge/PSNR-88%25-00d9ff?style=flat-square)
+![SSIM](https://img.shields.io/badge/SSIM-92%25-00FF94?style=flat-square&logoColor=black)
+![PSNR](https://img.shields.io/badge/PSNR-88%25-00FFD4?style=flat-square&logoColor=black)
+![Loss](https://img.shields.io/badge/Loss-VGG16_Perceptual-8B5CF6?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20&height=3"/>
+
 ### 🔬 DiffPool-3D-Lens
-[![Repo](https://img.shields.io/badge/View%20Repo-DiffPool--3D--Lens-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/DiffPool-3D-Lens)
+[![Repo](https://img.shields.io/badge/GitHub-DiffPool--3D--Lens-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/DiffPool-3D-Lens)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyG](https://img.shields.io/badge/PyG-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly_3D-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-> An interactive research platform to train and dissect Differentiable Pooling GNNs on the PROTEINS benchmark, rendering the full 2-level coarsening hierarchy (Original → Pool-1 → Pool-2) as live 3D point clouds side-by-side, with soft assignment matrices S₁ and S₂ visualised in real-time and the epoch × accuracy × loss surface as an interactive 3D training trajectory — available as both a Streamlit dashboard and a cell-by-cell Jupyter Notebook.
+> An interactive research platform to train and dissect Differentiable Pooling GNNs on the PROTEINS benchmark, rendering the full 2-level coarsening hierarchy (Original → Pool-1 → Pool-2) as live 3D point clouds side-by-side, with soft assignment matrices S₁ and S₂ visualised in real-time and the epoch × accuracy × loss surface as an interactive 3D training trajectory — available as both a live Streamlit dashboard and a cell-by-cell Jupyter Notebook.
 
-![Acc](https://img.shields.io/badge/Accuracy-72%E2%80%9376%25_PROTEINS-brightgreen?style=flat-square)
-![vs](https://img.shields.io/badge/vs_GCN-~70%25_baseline-yellow?style=flat-square)
+![Acc](https://img.shields.io/badge/Accuracy-72%E2%80%9376%25_PROTEINS-00FF94?style=flat-square&logoColor=black)
+![vs](https://img.shields.io/badge/vs_GCN-~70%25_baseline-FFFF00?style=flat-square&logoColor=black)
+![Viz](https://img.shields.io/badge/Viz-Live_3D_Coarsening-FF6EC7?style=flat-square)
 
 </td>
 </tr>
@@ -210,45 +252,61 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5&height=3"/>
+
 ### 🧠 Parkinson's Disease Detection
-[![Repo](https://img.shields.io/badge/View%20Repo-Parkinson_Disease_prediction-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Parkinson_Disease_prediction)
+[![Repo](https://img.shields.io/badge/GitHub-Parkinson_Disease_prediction-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Parkinson_Disease_prediction)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_XAI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Multimodal](https://img.shields.io/badge/Input-MFCC_%2B_Biomarkers-FF6EC7?style=flat-square)
 
-> A dual-path multimodal pipeline fusing audio MFCC features with CSV patient biomarkers through a Random Forest + RNN + LSTM ensemble for >94% early-stage Parkinson's detection accuracy. Gemini AI generates plain-language explanations of each prediction for non-technical clinicians — bridging ML confidence scores and real-world clinical decision-making.
+> A dual-path multimodal pipeline fusing audio MFCC features with CSV patient biomarkers through a Random Forest + RNN + LSTM ensemble for >94% early-stage Parkinson's detection accuracy. Gemini AI generates plain-language explanations of each prediction for non-technical clinicians — bridging the gap between ML confidence scores and real-world clinical decision-making.
 
-![Accuracy](https://img.shields.io/badge/Accuracy->94%25-brightgreen?style=flat-square)
-![XAI](https://img.shields.io/badge/XAI-Clinician--Readable-00d9ff?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy->94%25-00FF94?style=flat-square&logoColor=black)
+![XAI](https://img.shields.io/badge/XAI-Clinician--Readable-FFB347?style=flat-square)
+![Modal](https://img.shields.io/badge/Type-Multimodal_Fusion-8B5CF6?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,12&height=3"/>
+
 ### 🏦 Credit Risk Prediction & Explainability
-[![Repo](https://img.shields.io/badge/View%20Repo-CREDIT_RISK_PREDICTION-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/CREDIT_RISK_PREDICTION)
+[![Repo](https://img.shields.io/badge/GitHub-CREDIT_RISK_PREDICTION-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/CREDIT_RISK_PREDICTION)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-XAI-8B5CF6?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 > A transparent ML pipeline for loan default risk assessment pairing a PCA-compressed, GridSearchCV-optimised Random Forest with SHAP-based feature attribution to make every credit decision fully auditable. The interactive Streamlit dashboard delivers personalised per-applicant risk scoring with ROC-AUC drill-downs — designed for regulatory scrutiny from the ground up.
 
-![SHAP](https://img.shields.io/badge/Explainability-SHAP_Attribution-blueviolet?style=flat-square)
-![Compliance](https://img.shields.io/badge/Design-Audit_Ready-orange?style=flat-square)
+![SHAP](https://img.shields.io/badge/Explainability-SHAP_Attribution-8B5CF6?style=flat-square)
+![Compliance](https://img.shields.io/badge/Design-Audit_Ready-FFB347?style=flat-square)
+![Model](https://img.shields.io/badge/Model-RF_%2B_PCA_%2B_GridSearch-00FFD4?style=flat-square&logoColor=black)
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+</div>
 
 ## 🧰 Tech Arsenal
 
 <div align="center">
 
-**Languages & Core**
+**⚡ Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Agentic AI & LLM Stack**
+**🎭 Agentic AI & LLM Stack**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -256,7 +314,7 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**ML / DL Frameworks**
+**🔥 ML / DL Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -264,7 +322,7 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyG](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Backend & Infrastructure**
+**🏗️ Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -273,7 +331,7 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI Tools & Utilities**
+**🔬 AI Tools & Utilities**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -281,35 +339,43 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 ![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**6G & O-RAN Research Stack**
+**🛰️ 6G & O-RAN Research Stack**
 
 ![GNU Radio](https://img.shields.io/badge/GNU%20Radio-2E9AFE?style=for-the-badge&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NVIDIA](https://img.shields.io/badge/Sionna%20(NVIDIA)-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![NS3](https://img.shields.io/badge/NS--3%20Simulator-005C84?style=for-the-badge&logoColor=white)
-![OpenAirInterface](https://img.shields.io/badge/OpenAirInterface-E84545?style=for-the-badge&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/Sionna_(NVIDIA)-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NS3](https://img.shields.io/badge/NS--3_Simulator-005C84?style=for-the-badge&logoColor=white)
+![OAI](https://img.shields.io/badge/OpenAirInterface-E84545?style=for-the-badge&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3"/>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash-2615&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash-2615&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6EC7&icon_color=00FFD4&text_color=ffffff&ring_color=FF6EC7"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-2615&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-2615&theme=radical&hide_border=true&background=0d1117&ring=FF6EC7&fire=FFB347&currStreakLabel=00FFD4&sideLabels=FF6EC7&dates=ffffff" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-2615&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-2615&theme=redical&hide_border=true&bg_color=0d1117&color=FF6EC7&line=00FFD4&point=FFB347" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -317,9 +383,11 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -351,18 +419,23 @@ P1: Parallel Proposals → P2: Devil's Critique → P3: Cost + Validation + ML +
 
 ### 🔥 Open to Collaborate On
 
-**Agentic AI Systems** · **Multi-Agent Orchestration** · **Healthcare AI** · **Model Interpretability**
+![Agentic AI](https://img.shields.io/badge/Agentic_AI_Systems-FF6EC7?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-00FFD4?style=flat-square&logoColor=black)
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-00FF94?style=flat-square&logoColor=black)
+![XAI](https://img.shields.io/badge/Model_Interpretability-8B5CF6?style=flat-square)
+![GenVision](https://img.shields.io/badge/Generative_Vision-FFB347?style=flat-square)
+![FinIntel](https://img.shields.io/badge/Financial_Intelligence-FFFF00?style=flat-square&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Systems-EE4C2C?style=flat-square)
+![GNN](https://img.shields.io/badge/Graph_Neural_Networks-4285F4?style=flat-square)
+![6G](https://img.shields.io/badge/6G_SAGIN_Digital_Twins-2496ED?style=flat-square)
+![ORAN](https://img.shields.io/badge/O--RAN_DRL_Slicing-E84545?style=flat-square)
 
-**Generative Vision** · **Financial Intelligence** · **RAG Systems** · **Graph Neural Networks**
-
-**6G SAGIN Digital Twins** · **O-RAN DRL Slicing**
-
-<br/>
+<br/><br/>
 
 *If you're building something at the frontier of applied AI —* **let's talk.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer" />
 
 </div>
