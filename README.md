@@ -86,13 +86,35 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 </div>
+
+## 🎯 Currently Working On
+
+<div align="center">
+
+| Domain | Project | Status |
+|:---:|---|:---:|
+| 🤖 Agentic AI | Extending ArchitectAI with memory-augmented agents & tool use | 🔨 Active |
+| 🛰️ 6G Research | Near-RT RIC + Federated SAC convergence under non-IID data | 🔬 Research |
+| 🧠 Graph ML | Hierarchical DiffPool for protein interaction network classification | 📐 Design |
+| 💊 Healthcare AI | Multimodal LLM for clinical report summarisation + anomaly flagging | 🧪 Prototyping |
+| 📚 Learning | MCP (Model Context Protocol) · LLM Tool Use · Mixture of Experts | 📖 Ongoing |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+</div>
  
 
 ## 🚀 Flagship Projects
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&text=%E2%AD%90%20FEATURED%20PROJECTS&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=4%20Production-Grade%20AI%20Systems%20at%20the%20Research%20Frontier&descAlignY=72&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,12,30&height=200&text=%E2%AD%90%20FEATURED%20PROJECTS&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=4%20Production-Grade%20AI%20Systems%20at%20the%20Research%20Frontier&descAlignY=72&descSize=16"/>
 
 </div>
 
@@ -504,6 +526,27 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+</div>
+
+## 🧠 AI Engineering by the Numbers
+
+<div align="center">
+
+![Agents Built](https://img.shields.io/badge/Max_Agents_in_One_System-19_LLMs-00FFD4?style=for-the-badge&logoColor=black)
+![Pipeline Stages](https://img.shields.io/badge/Orchestration_Phases-7_Stages-FF6EC7?style=for-the-badge)
+![Best Accuracy](https://img.shields.io/badge/Best_Model_Accuracy->96%25-00FF94?style=for-the-badge&logoColor=black)
+![Domains](https://img.shields.io/badge/Domains_Covered-6_Active-FFB347?style=for-the-badge)
+![Years Data](https://img.shields.io/badge/RAG_Corpus-10%2B_Years_SEC_Filings-8B5CF6?style=for-the-badge)
+![Network Layers](https://img.shields.io/badge/6G_Layers-Sat_%2B_HAPs_%2B_UAV_%2B_Ground-4285F4?style=for-the-badge)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3"/>
 </div>
 
@@ -533,13 +576,62 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-2615&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=8&column=7" />
 
 </div>
 
 <br/>
 
 ---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> ⚙️ *To enable the snake animation, add a GitHub Actions workflow to your profile repo that generates the SVG.*
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+</div>
+
+## 🔭 Research Interests & Deep Dives
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    ACTIVE RESEARCH THREADS                          │
+├───────────────────┬─────────────────────────────────────────────────┤
+│  Agentic Systems  │  Tool-augmented LLMs · MCP · Memory Networks    │
+│  Graph Learning   │  Hierarchical Pooling · Topology · Bio-GNNs     │
+│  Wireless AI      │  6G SAGIN · O-RAN · Near-RT RIC · Federated RL  │
+│  XAI              │  SHAP on RL Actors · Concept Bottleneck Models   │
+│  Healthcare AI    │  Multimodal Diagnosis · Clinical NLP · EHR RAG  │
+│  FinTech AI       │  Temporal RAG · Anomaly Detection · Audit AI     │
+└───────────────────┴─────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+</div>
 
 ## 💡 Philosophy
 
@@ -548,8 +640,6 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 <br/>
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
-
-<br/>
 
 <br/>
 
