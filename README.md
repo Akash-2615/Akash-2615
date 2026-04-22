@@ -83,19 +83,7 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
-</div>
 
-
-
-<br/>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
-</div>
  
 
 ## 🚀 Flagship Projects
