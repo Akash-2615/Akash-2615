@@ -589,12 +589,10 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Akash-2615/Akash-2615/output/github-snake-dark.svg" />
 </picture>
-
-> ⚙️ *To enable the snake animation, add a GitHub Actions workflow to your profile repo that generates the SVG.*
 
 </div>
 
@@ -610,18 +608,14 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    ACTIVE RESEARCH THREADS                          │
-├───────────────────┬─────────────────────────────────────────────────┤
-│  Agentic Systems  │  Tool-augmented LLMs · MCP · Memory Networks    │
-│  Graph Learning   │  Hierarchical Pooling · Topology · Bio-GNNs     │
-│  Wireless AI      │  6G SAGIN · O-RAN · Near-RT RIC · Federated RL  │
-│  XAI              │  SHAP on RL Actors · Concept Bottleneck Models   │
-│  Healthcare AI    │  Multimodal Diagnosis · Clinical NLP · EHR RAG  │
-│  FinTech AI       │  Temporal RAG · Anomaly Detection · Audit AI     │
-└───────────────────┴─────────────────────────────────────────────────┘
-```
+| Domain | Active Research Threads |
+|:---|:---|
+| 🤖 Agentic Systems | Tool-augmented LLMs · MCP · Memory Networks |
+| 🔬 Graph Learning | Hierarchical Pooling · Topology · Bio-GNNs |
+| 🛰️ Wireless AI | 6G SAGIN · O-RAN · Near-RT RIC · Federated RL |
+| 🔍 XAI | SHAP on RL Actors · Concept Bottleneck Models |
+| 💊 Healthcare AI | Multimodal Diagnosis · Clinical NLP · EHR RAG |
+| 🏦 FinTech AI | Temporal RAG · Anomaly Detection · Audit AI |
 
 </div>
 
