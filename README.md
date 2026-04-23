@@ -32,7 +32,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=ffffff" />
+<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=ffffff&langs_count=8" />
 
 👋 Hi, I'm **Akash S** — a builder at the intersection of **cutting-edge AI research** and **production-grade engineering**, based in India 🇮🇳.
 
