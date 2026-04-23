@@ -447,7 +447,7 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash-2615&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6EC7&icon_color=00FFD4&text_color=ffffff&ring_color=FF6EC7"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=ffffff&langs_count=8"/>
 
 <br/><br/>
 
