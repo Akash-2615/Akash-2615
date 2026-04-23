@@ -1,6 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Akash%20S&fontSize=76&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=58&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a1a,100:0d2a0d&height=200&section=header&text=Akash%20S&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontAlign=30&desc=github.com/Akash-2615%20%20%20%7C%20%20%20linkedin.com/in/akash-s-778194275&descAlignY=60&descSize=15&descAlign=30"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Akash--2615-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-2615)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akash--s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s-778194275/)
+[![Gmail](https://img.shields.io/badge/Gmail-akash2612005-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash2612005@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Akash-2615&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Hi there 👋, &lt; devs /&gt;
 
 </div>
 
@@ -12,26 +29,7 @@
 
 <br/>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/akash-s-778194275/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:akash2612005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Akash-2615">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Akash-2615&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
-
 ---
-
-
 
 ## 🧬 About Me
 
@@ -81,9 +79,6 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 
 ---
 
-
- 
-
 ## 🚀 Flagship Projects
 
 <div align="center">
@@ -95,10 +90,6 @@ Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures
 <br/>
 
 ---
-
-<!-- ════════════════════════════════════════════════════════════
-     FLAGSHIP 01 — ARCHITECTAI  (Most Complex · Crown Jewel)
-     ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -145,17 +136,9 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=2"/>
-</div>
-
 <br/>
 
 ---
-
-<!-- ════════════════════════════════════════════════════════════
-     FLAGSHIP 02 — FORENSIC FINANCIAL SUITE  (Applied GenAI · RAG)
-     ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -207,17 +190,9 @@ SEC Filings → OCR Router → Dual-Lane Embeddings (Prose ║ Tables) → Qdran
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,19&height=2"/>
-</div>
-
 <br/>
 
 ---
-
-<!-- ════════════════════════════════════════════════════════════
-     FLAGSHIP 03 — 6G SAGIN  (Research · Autonomous Networks)
-     ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -265,17 +240,9 @@ Traffic Forecast (CNN-Transformer+MAML) ──► Beam Schedule (JPTA) ──►
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9,20&height=2"/>
-</div>
-
 <br/>
 
 ---
-
-<!-- ════════════════════════════════════════════════════════════
-     FLAGSHIP 04 — 5G O-RAN  (Research · DRL + XAI)
-     ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -317,10 +284,6 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,30&height=2"/>
-</div>
-
 <br/>
 
 ---
@@ -335,8 +298,6 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=3"/>
-
 ### 🎥 Deep Fake Detector
 [![Repo](https://img.shields.io/badge/GitHub-Deep_Fake_Detector-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Deep_Fake_Detector)
 
@@ -344,7 +305,7 @@ Per-BS SAC Agents (eMBB / URLLC / mMTC @ 10ms TTI)  ──►  Federated Attn-We
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_XAI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-A **multi-stream hybrid classifier** combining 3D CNN, ResNet, and Bidirectional LSTM for spatio-temporal feature fusion — detecting synthetic video at **95%+ accuracy**. Gemini AI delivers frame-level narrative forensics per clip. Deployed as a real-time Streamlit app with live webcam recording and per-clip explainability reports.
+A **multi-stream hybrid classifier** combining 3D CNN, ResNet, and Bidirectional LSTM for spatio-temporal feature fusion — detecting synthetic video at **95%+ accuracy**. Gemini AI delivers frame-level narrative forensics per clip.
 
 ![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-00FF94?style=flat-square&logoColor=black)
 ![XAI](https://img.shields.io/badge/XAI-Gemini_Frame_Forensics-FF6EC7?style=flat-square)
@@ -353,8 +314,6 @@ A **multi-stream hybrid classifier** combining 3D CNN, ResNet, and Bidirectional
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,30&height=3"/>
-
 ### 🎨 Automatic Image Colorization
 [![Repo](https://img.shields.io/badge/GitHub-Automatic_Image_Colourization-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Automatic_Image_Colourization)
 
@@ -362,7 +321,7 @@ A **multi-stream hybrid classifier** combining 3D CNN, ResNet, and Bidirectional
 ![GAN](https://img.shields.io/badge/GAN-PatchGAN-FF6EC7?style=flat-square)
 ![LAB](https://img.shields.io/badge/Colour_Space-LAB-00FFD4?style=flat-square&logoColor=black)
 
-A **GAN-based colorization system** in LAB colour space — L channel feeds a U-Net encoder-decoder with attention blocks to predict AB chrominance, sharpened adversarially by a PatchGAN discriminator. VGG16 perceptual loss + colour consistency loss push **SSIM to 92%** and **PSNR to 88%** on grayscale historical images.
+A **GAN-based colorization system** in LAB colour space — U-Net encoder-decoder with attention blocks predicts AB chrominance, sharpened adversarially by a PatchGAN discriminator. Achieves **SSIM 92%** and **PSNR 88%**.
 
 ![SSIM](https://img.shields.io/badge/SSIM-92%25-00FF94?style=flat-square&logoColor=black)
 ![PSNR](https://img.shields.io/badge/PSNR-88%25-00FFD4?style=flat-square&logoColor=black)
@@ -374,26 +333,20 @@ A **GAN-based colorization system** in LAB colour space — L channel feeds a U-
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3"/>
-
 ### 🔬 DiffPool-3D-Lens
 [![Repo](https://img.shields.io/badge/GitHub-DiffPool--3D--Lens-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/DiffPool-3D-Lens)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyG](https://img.shields.io/badge/PyG-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly_3D-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-An **interactive GNN research platform** for Differentiable Pooling — renders the full 2-level coarsening hierarchy (Original → Pool-1 → Pool-2) as live 3D point clouds, with soft assignment matrices S₁ and S₂ in real-time and the epoch × accuracy × loss surface as an **interactive 3D training trajectory**.
+An **interactive GNN research platform** for Differentiable Pooling — renders the full 2-level coarsening hierarchy as live 3D point clouds with soft assignment matrices S₁ and S₂ in real-time.
 
 ![Acc](https://img.shields.io/badge/Accuracy-72%E2%80%9376%25_PROTEINS-00FF94?style=flat-square&logoColor=black)
-![vs](https://img.shields.io/badge/vs_GCN-~70%25_baseline-FFFF00?style=flat-square&logoColor=black)
 ![Viz](https://img.shields.io/badge/Viz-Live_3D_Coarsening-FF6EC7?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5&height=3"/>
 
 ### 🧠 Parkinson's Disease Detection
 [![Repo](https://img.shields.io/badge/GitHub-Parkinson_Disease_prediction-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Parkinson_Disease_prediction)
@@ -402,19 +355,16 @@ An **interactive GNN research platform** for Differentiable Pooling — renders 
 ![Gemini](https://img.shields.io/badge/Gemini_XAI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Multimodal](https://img.shields.io/badge/Input-MFCC_%2B_Biomarkers-FF6EC7?style=flat-square)
 
-A **dual-path multimodal pipeline** fusing audio MFCC features with CSV patient biomarkers through a Random Forest + RNN + LSTM ensemble for **>94% early-stage Parkinson's detection**. Gemini AI generates plain-language explanations per prediction — bridging ML confidence scores and real-world clinical decision-making.
+A **dual-path multimodal pipeline** fusing audio MFCC features with CSV patient biomarkers through a Random Forest + RNN + LSTM ensemble for **>94% early-stage Parkinson's detection**.
 
 ![Accuracy](https://img.shields.io/badge/Accuracy->94%25-00FF94?style=flat-square&logoColor=black)
 ![XAI](https://img.shields.io/badge/XAI-Clinician--Readable-FFB347?style=flat-square)
-![Modal](https://img.shields.io/badge/Type-Multimodal_Fusion-8B5CF6?style=flat-square)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,12&height=3"/>
 
 ### 🌊 Liquid Neural Network — Temperature Forecasting
 [![Repo](https://img.shields.io/badge/GitHub-LNN_Temperature_Forecasting-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Liquid_Neural_Networks-Temperature_Forecasting)
@@ -422,19 +372,15 @@ A **dual-path multimodal pipeline** fusing audio MFCC features with CSV patient 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![torchdiffeq](https://img.shields.io/badge/torchdiffeq-Neural_ODE-8B5CF6?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React_Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-A **continuous-time Neural ODE** architecture for HVAC thermodynamic forecasting — predicting 30-minute-ahead indoor temperatures with full physical realism. Uses a Dormand-Prince (dopri5) ODE solver to model hidden states that evolve fluidly, perfectly capturing heat transfer momentum that discrete LSTMs miss. Frontend is 100% inference-driven: every physical trajectory is dictated solely by the Neural ODE weights — zero hardcoded simulation math.
+A **continuous-time Neural ODE** for HVAC thermodynamic forecasting — predicting 30-minute-ahead indoor temperatures using a Dormand-Prince (dopri5) solver.
 
 ![R2](https://img.shields.io/badge/R²_Score-0.9761-00FF94?style=flat-square&logoColor=black)
 ![MAE](https://img.shields.io/badge/MAE-0.224_°C-00FFD4?style=flat-square&logoColor=black)
 ![Acc](https://img.shields.io/badge/Live_Accuracy-87.91%25_(±0.5°C)-FF6EC7?style=flat-square)
-![ODE](https://img.shields.io/badge/Solver-dopri5_Neural_ODE-FFB347?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9&height=3"/>
 
 ### 🐺 NeuralJackal Optimizer
 [![Repo](https://img.shields.io/badge/GitHub-Neural--Jackal--Optimizer-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Neural-Jackal-Optimizer)
@@ -442,22 +388,17 @@ A **continuous-time Neural ODE** architecture for HVAC thermodynamic forecasting
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-Parallel_Engine-00FFD4?style=flat-square&logoColor=black)
 
-An **Enhanced Golden Jackal Optimizer (E-GJO)** with 6 genuine algorithmic upgrades — beating PSO & GA on real XGBoost hyperparameter tuning across benchmark datasets. Enhancements include Opposition-Based Initialization, Sine-Logistic Chaotic Escaping Energy, Adaptive Lévy Exponent annealing (β: 1.5→1.0), Stagnation Detection with active re-escape, and an exclusive Elite Polishing Phase. All 3 algorithms run concurrently via `asyncio.gather` with isolated fitness caches — with live swarm visualisation streamed over WebSocket.
+An **Enhanced Golden Jackal Optimizer (E-GJO)** with 6 algorithmic upgrades — beating PSO & GA on XGBoost hyperparameter tuning with live WebSocket swarm visualisation.
 
 ![Beats](https://img.shields.io/badge/Beats-PSO_%2B_GA-00FF94?style=flat-square&logoColor=black)
-![Enhancements](https://img.shields.io/badge/E--GJO-6_Algorithmic_Upgrades-FF6EC7?style=flat-square)
 ![Stream](https://img.shields.io/badge/Live-WebSocket_Swarm_Viz-FFB347?style=flat-square)
-![Parallel](https://img.shields.io/badge/Engine-3x_Concurrent_asyncio-8B5CF6?style=flat-square)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top" colspan="2">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,12&height=3"/>
 
 ### 🏦 Credit Risk Prediction & Explainability
 [![Repo](https://img.shields.io/badge/GitHub-CREDIT_RISK_PREDICTION-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/CREDIT_RISK_PREDICTION)
@@ -466,7 +407,7 @@ An **Enhanced Golden Jackal Optimizer (E-GJO)** with 6 genuine algorithmic upgra
 ![SHAP](https://img.shields.io/badge/SHAP-XAI-8B5CF6?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-A **transparent ML pipeline** for loan default risk assessment — PCA-compressed, GridSearchCV-optimised Random Forest paired with SHAP feature attribution to make every credit decision fully auditable. The interactive Streamlit dashboard delivers **personalised per-applicant risk scoring** with ROC-AUC drill-downs, designed for regulatory scrutiny from the ground up.
+A **transparent ML pipeline** for loan default risk assessment — PCA-compressed, GridSearchCV-optimised Random Forest paired with SHAP feature attribution for fully auditable credit decisions.
 
 ![SHAP](https://img.shields.io/badge/Explainability-SHAP_Attribution-8B5CF6?style=flat-square)
 ![Compliance](https://img.shields.io/badge/Design-Audit_Ready-FFB347?style=flat-square)
@@ -479,10 +420,6 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 <br/>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
-</div>
 
 ## 🧰 Tech Arsenal
 
@@ -545,9 +482,96 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 
 ---
 
+## 🖥️ Tech Stack
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>TypeScript
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>FastAPI
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=opencv" width="48"/><br/>OpenCV
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/>Sklearn
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br/>Jupyter
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=grafana" width="48"/><br/>Grafana
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>SQLite
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>CI/CD
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS
+</td>
+</tr>
+</table>
+
 </div>
+
+<br/>
+
+---
 
 ## 🧠 AI Engineering by the Numbers
 
@@ -567,10 +591,6 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 <br/>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3"/>
-</div>
 
 ## 📊 GitHub Stats
 
@@ -622,10 +642,6 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
-</div>
-
 ## 🔭 Research Interests & Deep Dives
 
 <div align="center">
@@ -646,10 +662,6 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 <br/>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
-</div>
 
 ## 💡 Philosophy
 
@@ -702,6 +714,6 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a1a,100:0d2a0d&height=130&section=footer" />
 
 </div>
