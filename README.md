@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Akash%20S&fontSize=82&fontColor=00FFD4&animation=twinkling&fontAlignY=40&fontFamily=Great+Vibes&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=62&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Akash%20S&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=40&fontFamily=Great+Vibes&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=62&descSize=14" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00FFD4&center=true&vCenter=true&random=false&width=920&lines=Architecting+Multi-Agent+AI+Systems+from+Scratch+%F0%9F%A4%96;19-Agent+Debate+Engines+%7C+LLM+Orchestration+%7C+SSE+Streaming;Gen+AI+%7C+Deep+Learning+%7C+Graph+Neural+Networks+%F0%9F%A7%A0;6G+SAGIN+Digital+Twin+%7C+Zero-Touch+Networks+%F0%9F%9B%B0%EF%B8%8F;O-RAN+%7C+SAC+DRL+%7C+Near-RT+RIC+%7C+Federated+AI+%F0%9F%93%A1;DiffPool+GNNs+%7C+Graph+Coarsening+%7C+XAI+%F0%9F%94%AC;Turning+Frontier+Research+into+Production+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=920&lines=Architecting+Multi-Agent+AI+Systems+from+Scratch+%F0%9F%A4%96;19-Agent+Debate+Engines+%7C+LLM+Orchestration+%7C+SSE+Streaming;Gen+AI+%7C+Deep+Learning+%7C+Graph+Neural+Networks+%F0%9F%A7%A0;6G+SAGIN+Digital+Twin+%7C+Zero-Touch+Networks+%F0%9F%9B%B0%EF%B8%8F;O-RAN+%7C+SAC+DRL+%7C+Near-RT+RIC+%7C+Federated+AI+%F0%9F%93%A1;DiffPool+GNNs+%7C+Graph+Coarsening+%7C+XAI+%F0%9F%94%AC;Turning+Frontier+Research+into+Production+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
