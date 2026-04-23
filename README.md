@@ -1,11 +1,6 @@
 <div align="center">
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=header" />
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=90&pause=99999&color=FFFFFF&center=true&vCenter=true&width=920&height=110&lines=Akash+S" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=99999&color=AAAAAA&center=true&vCenter=true&width=920&height=28&lines=ML+Engineer+%7C+Agentic+AI+Engineer+%7C+Gen+AI+Engineer+%7C+Data+Scientist+%7C+Graph+ML+Researcher" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Akash%20S&fontSize=95&fontColor=ffffff&animation=twinkling&fontAlignY=44&fontFamily=Great+Vibes&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=65&descSize=14" />
 </div>
 
 <div align="center">
