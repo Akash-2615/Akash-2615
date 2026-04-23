@@ -412,6 +412,49 @@ A **dual-path multimodal pipeline** fusing audio MFCC features with CSV patient 
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,12&height=3"/>
+
+### 🌊 Liquid Neural Network — Temperature Forecasting
+[![Repo](https://img.shields.io/badge/GitHub-LNN_Temperature_Forecasting-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Liquid_Neural_Networks-Temperature_Forecasting)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![torchdiffeq](https://img.shields.io/badge/torchdiffeq-Neural_ODE-8B5CF6?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+A **continuous-time Neural ODE** architecture for HVAC thermodynamic forecasting — predicting 30-minute-ahead indoor temperatures with full physical realism. Uses a Dormand-Prince (dopri5) ODE solver to model hidden states that evolve fluidly, perfectly capturing heat transfer momentum that discrete LSTMs miss. Frontend is 100% inference-driven: every physical trajectory is dictated solely by the Neural ODE weights — zero hardcoded simulation math.
+
+![R2](https://img.shields.io/badge/R²_Score-0.9761-00FF94?style=flat-square&logoColor=black)
+![MAE](https://img.shields.io/badge/MAE-0.224_°C-00FFD4?style=flat-square&logoColor=black)
+![Acc](https://img.shields.io/badge/Live_Accuracy-87.91%25_(±0.5°C)-FF6EC7?style=flat-square)
+![ODE](https://img.shields.io/badge/Solver-dopri5_Neural_ODE-FFB347?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9&height=3"/>
+
+### 🐺 NeuralJackal Optimizer
+[![Repo](https://img.shields.io/badge/GitHub-Neural--Jackal--Optimizer-181717?style=flat-square&logo=github)](https://github.com/Akash-2615/Neural-Jackal-Optimizer)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-Parallel_Engine-00FFD4?style=flat-square&logoColor=black)
+
+An **Enhanced Golden Jackal Optimizer (E-GJO)** with 6 genuine algorithmic upgrades — beating PSO & GA on real XGBoost hyperparameter tuning across benchmark datasets. Enhancements include Opposition-Based Initialization, Sine-Logistic Chaotic Escaping Energy, Adaptive Lévy Exponent annealing (β: 1.5→1.0), Stagnation Detection with active re-escape, and an exclusive Elite Polishing Phase. All 3 algorithms run concurrently via `asyncio.gather` with isolated fitness caches — with live swarm visualisation streamed over WebSocket.
+
+![Beats](https://img.shields.io/badge/Beats-PSO_%2B_GA-00FF94?style=flat-square&logoColor=black)
+![Enhancements](https://img.shields.io/badge/E--GJO-6_Algorithmic_Upgrades-FF6EC7?style=flat-square)
+![Stream](https://img.shields.io/badge/Live-WebSocket_Swarm_Viz-FFB347?style=flat-square)
+![Parallel](https://img.shields.io/badge/Engine-3x_Concurrent_asyncio-8B5CF6?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top" colspan="2">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,12&height=3"/>
@@ -467,11 +510,14 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyG](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![torchdiffeq](https://img.shields.io/badge/torchdiffeq-Neural_ODE-8B5CF6?style=for-the-badge)
 
 **🏗️ Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -510,9 +556,11 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ![Agents Built](https://img.shields.io/badge/Max_Agents_in_One_System-19_LLMs-00FFD4?style=for-the-badge&logoColor=black)
 ![Pipeline Stages](https://img.shields.io/badge/Orchestration_Phases-7_Stages-FF6EC7?style=for-the-badge)
 ![Best Accuracy](https://img.shields.io/badge/Best_Model_Accuracy->96%25-00FF94?style=for-the-badge&logoColor=black)
-![Domains](https://img.shields.io/badge/Domains_Covered-6_Active-FFB347?style=for-the-badge)
+![Domains](https://img.shields.io/badge/Domains_Covered-8_Active-FFB347?style=for-the-badge)
 ![Years Data](https://img.shields.io/badge/RAG_Corpus-10%2B_Years_SEC_Filings-8B5CF6?style=for-the-badge)
 ![Network Layers](https://img.shields.io/badge/6G_Layers-Sat_%2B_HAPs_%2B_UAV_%2B_Ground-4285F4?style=for-the-badge)
+![Optimizers](https://img.shields.io/badge/Custom_Optimizers-E--GJO_6_Enhancements-FF6EC7?style=for-the-badge)
+![NeuralODE](https://img.shields.io/badge/Neural_ODE-R²_0.9761_HVAC-00FF94?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -590,6 +638,8 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 | 🔍 XAI | SHAP on RL Actors · Concept Bottleneck Models |
 | 💊 Healthcare AI | Multimodal Diagnosis · Clinical NLP · EHR RAG |
 | 🏦 FinTech AI | Temporal RAG · Anomaly Detection · Audit AI |
+| 🌊 Neural ODEs | Liquid Neural Networks · Continuous-Time Dynamics · Physical Systems |
+| ⚡ Metaheuristics | Bio-Inspired Optimizers · Swarm Intelligence · Hyperparameter Search |
 
 </div>
 
@@ -643,6 +693,8 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ![GNN](https://img.shields.io/badge/Graph_Neural_Networks-4285F4?style=flat-square)
 ![6G](https://img.shields.io/badge/6G_SAGIN_Digital_Twins-2496ED?style=flat-square)
 ![ORAN](https://img.shields.io/badge/O--RAN_DRL_Slicing-E84545?style=flat-square)
+![NeuralODE](https://img.shields.io/badge/Neural_ODE_%26_LNNs-8B5CF6?style=flat-square)
+![Metaheuristics](https://img.shields.io/badge/Bio--Inspired_Optimizers-FF6600?style=flat-square)
 
 <br/><br/>
 
