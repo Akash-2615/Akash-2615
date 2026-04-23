@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════
-     CUSTOM BANNER — upload banner.svg to your repo root
-     and it will render as your profile header
-     ══════════════════════════════════════════════════════ -->
-<img src="banner.svg" width="100%" alt="Akash S — ML Engineer · Agentic AI · Graph ML"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Akash%20S&fontSize=82&fontColor=00FFD4&animation=twinkling&fontAlignY=40&fontFamily=Dancing+Script&stroke=FF6EC7&strokeWidth=2&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=62&descSize=14" />
 
 </div>
 
