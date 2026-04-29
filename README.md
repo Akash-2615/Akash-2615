@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Akash%20S&fontSize=95&fontColor=ffffff&animation=twinkling&fontAlignY=44&fontFamily=Great+Vibes&desc=ML%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Graph%20ML%20Researcher&descAlignY=65&descSize=14" />
+
 </div>
 
 <div align="center">
@@ -16,7 +17,7 @@
 <a href="https://www.linkedin.com/in/akash-s-778194275/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:akash2612005@gmail.com"> 
+<a href="mailto:akash2612005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Akash-2615">
@@ -32,43 +33,40 @@
 
 ## 🧬 About Me
 
-<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2615&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=ffffff&langs_count=8" />
+👋 Hi, I'm **Akash S** — an AI Engineer and Researcher who builds at the intersection of **cutting-edge research** and **production-grade systems**, based in India 🇮🇳.
 
-👋 Hi, I'm **Akash S** — a builder at the intersection of **cutting-edge AI research** and **production-grade engineering**, based in India 🇮🇳.
-
-I don't just train models — I **orchestrate AI systems** that reason, debate, critique, self-optimize, and explain themselves. My work spans autonomous multi-agent pipelines, 6G network intelligence, hierarchical graph learning, and explainable deep learning for high-stakes domains like healthcare and finance.
+My expertise spans the full spectrum of modern AI: from **orchestrating networks of LLM agents** that debate and self-critique, to training **Graph Neural Networks** for hierarchical learning, to deploying **autonomous deep RL controllers** for next-generation wireless networks. I don't just implement — I architect.
 
 <br/>
 
-<details open>
-<summary><b>🎭 Agentic AI Engineer</b></summary>
-<br/>
-I design and build <b>multi-agent AI systems</b> — networks of specialised LLM agents that collaborate, argue, and synthesise decisions autonomously. This means architecting debate engines, orchestrating concurrent agent pipelines via <code>asyncio</code>, designing streaming SSE infrastructure, and building cross-agent voting and consensus mechanisms. Think of it as <b>directing a team of AI experts</b> rather than prompting a single model.
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🤖 ML & Deep Learning Engineer</b></summary>
-<br/>
-End-to-end pipeline ownership: dataset design → model architecture → training loops → evaluation → production deployment. Fluent in PyTorch, PyTorch Geometric, Transformers, and custom loss engineering across vision, sequence, and graph domains.
-</details>
+**🎭 Multi-Agent Systems & LLM Orchestration**
+> Designing swarms of specialised LLM agents with structured debate, cross-agent voting, SSE streaming, and autonomous synthesis pipelines — treating AI as a **collaborative reasoning system**, not a single prompt.
 
-<details>
-<summary><b>🧠 Generative AI Engineer</b></summary>
-<br/>
-LLM-powered applications with real-world impact — RAG systems, multimodal fusion, structured output generation, token-streaming UIs, and AI copilots for forensic finance, clinical diagnostics, and network operations.
-</details>
+**🤖 Deep Learning & ML Engineering**
+> End-to-end ownership of model pipelines — from architecture design and custom loss engineering to training, evaluation, and deployment — across vision, sequence, graph, and continuous-time domains.
 
-<details>
-<summary><b>🔬 Graph ML Researcher</b></summary>
-<br/>
-Hierarchical GNN pooling (DiffPool), graph coarsening, 3D topological visualisation, and bioinformatics applications. Research-grade implementations that go beyond benchmarks into interpretable, deployable science.
-</details>
+**🧠 Generative AI & RAG Systems**
+> Building LLM-powered applications with real-world impact: temporal RAG pipelines, forensic anomaly detection, multimodal fusion, and structured output generation for finance, healthcare, and network operations.
 
-<details>
-<summary><b>🛰️ 6G / O-RAN Systems Researcher</b></summary>
-<br/>
-Simulating zero-touch autonomous 6G networks: digital twins, SAGIN architectures, SAC deep RL for network slicing, federated learning across base stations, and Near-RT RIC orchestration.
-</details>
+</td>
+<td width="50%" valign="top">
+
+**🔬 Graph ML Research**
+> Hierarchical GNN pooling (DiffPool), graph coarsening, soft assignment visualisation, and bioinformatics applications — research-grade implementations with interactive 3D interpretability.
+
+**🛰️ 6G / O-RAN Systems Research**
+> Simulating zero-touch autonomous wireless networks: digital twins, SAC deep RL for network slicing, federated learning across base stations, and Near-RT RIC orchestration with full XAI explainability.
+
+**🌊 Neural ODEs & Continuous-Time Dynamics**
+> Applying liquid neural networks and ODE solvers (dopri5) to physical systems — modelling thermodynamic processes and temporal signals with continuous-time realism.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
