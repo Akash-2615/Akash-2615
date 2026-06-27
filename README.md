@@ -151,7 +151,7 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 
 ### 🔧 SENTINEX — Diesel Engine Air-Path Leak Detection System
 
-[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-SENTINEX-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/SENTINEX)
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-SENTINEX-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/SENTINEX-DIESEL-ENGINE-LEAK-DETECTION-SYSTEM)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
