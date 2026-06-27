@@ -80,7 +80,7 @@ My expertise spans the full spectrum of modern AI: from **orchestrating networks
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,12,30&height=200&text=%E2%AD%90%20FEATURED%20PROJECTS&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=4%20Production-Grade%20AI%20Systems%20at%20the%20Research%20Frontier&descAlignY=72&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,12,30&height=200&text=%E2%AD%90%20FEATURED%20PROJECTS&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=5%20Production-Grade%20AI%20Systems%20at%20the%20Research%20Frontier&descAlignY=72&descSize=16"/>
 
 </div>
 
@@ -142,12 +142,100 @@ P1: Parallel Proposals  ──►  P2: Devil's Critique  ──►  P3: Cost + V
 ---
 
 <!-- ════════════════════════════════════════════════════════════
-     FLAGSHIP 02 — FORENSIC FINANCIAL SUITE
+     FLAGSHIP 02 — SENTINEX
      ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,19&height=80&text=%F0%9F%A5%88%20%20FLAGSHIP%20II%20%E2%80%94%20Applied%20GenAI%20%2F%20RAG%20%20%F0%9F%A5%88&fontSize=26&fontColor=ffffff&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,4,12,20&height=80&text=%F0%9F%A5%88%20%20FLAGSHIP%20II%20%E2%80%94%20Industrial%20AI%20%2F%20MLOps%20%20%F0%9F%A5%88&fontSize=26&fontColor=ffffff&animation=blinking"/>
+
+### 🔧 SENTINEX — Diesel Engine Air-Path Leak Detection System
+
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_View_on_GitHub-SENTINEX-00FFD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Akash-2615/SENTINEX)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-TreeExplainer-8B5CF6?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2%2FECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API_(ARIA)-D97757?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5E5?style=flat-square&logoColor=white)
+![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</div>
+
+<br/>
+
+**What it does:** A **production-grade real-time physics-ML hybrid system** for detecting, locating, quantifying, and explaining diesel engine air-path leaks in Caterpillar test cells — built for the **Caterpillar Tech Challenge 2026 Grand Finale (Top 10 National Finalist, Team DECODERZZ — CIT)**.
+
+Monitors **42 live sensor streams** through a 7-stage pipeline and delivers sub-second leak detection with full explainability, simultaneous multi-leak capability, and a 3D Digital Twin — **zero new hardware required**.
+
+| Stage | Component | What It Does |
+|:---:|---|---|
+| **1** | Data Quality Pipeline (DQP) | 5-stage cascade: bounds validation · null imputation · spike detection · EMA smoothing · drift flagging with cascade protection |
+| **2** | Steady State Guard (SSG) | Suppresses detection during RPM/load transitions — eliminates transient false alarms |
+| **3** | XGBoost + Multi-label NN | Single-leak: 99.95% accuracy across 8 scenarios · Multi-label: sigmoid heads, BCEWithLogitsLoss, 7 valid combinations |
+| **4** | SHAP TreeExplainer | Exact top-5 sensor attribution per prediction with deviation %, SHAP impact score, and plain-language interpretation |
+| **5** | Sensor Fault Isolator (SFI) | 3-mechanism: health divergence tracking · DQP flag integration · physics cascade validation |
+| **6** | Dynamic Baseline Engine | Physics-expected values at any RPM/load — CPR formula (K₁=1.5867) + T_exhaust formula (T_BASE=906.7°C) |
+| **7** | FastAPI + React Dashboard | 10 REST endpoints · real-time streaming · session logging · multi-engine C7/C13/C15 switching |
+
+- 🤖 **ARIA AI Copilot** — Claude-powered diagnostic assistant with live context injection per message: current prediction + SHAP top-5 + RCA ranked causes + live sensor readings + engine operating state — answers what no generic chatbot could
+- 🔬 **Root Cause Analysis Engine** — deterministic per-scenario knowledge base (7 scenarios × ranked hypotheses) with inspection actions, tools, visual signs, and SHAP-driven disambiguation rules
+- 🌐 **3D Digital Twin** — Three.js procedural engine visualisation for C7/C13/C15 with SHAP-driven sensor sphere colouring, intake/exhaust flow particle animation, GNN edge overlay, cutaway/X-ray modes, and real-time leak FX at the exact component
+- 📡 **Federated Learning** — FedAvg simulation across 4 Caterpillar India test facilities (Hosur · Bengaluru · Pune · Chennai) with attention-weighted aggregation (α_k), privacy compression >5000×, and live global F1 convergence chart
+- 🏥 **Sensor Health Tracker** — per-sensor drift monitoring (rolling 20-sample window), calibration age scheduling, FAULT/WATCH/STALE/OK status, fleet health score 0–100
+- 🔍 **Multi-Leak Detection** — 17,500 training rows across 7 thermodynamically valid combinations using multiplicative superposition; ensemble confidence routing at 0.85 threshold between XGBoost single-leak and multi-label NN
+- 📄 **Auto PDF Session Reports** — jsPDF one-click reports with SFI confirmation, SHAP drivers, leak timeline, sensor fault events, and SMTP email delivery
+- 🚀 **AWS Production Deployment** — Dockerised dual-container stack, ECR registry, EC2 t3.large, single-command deploy via `bash scripts/ec2-pull-up.sh`
+
+<div align="center">
+
+```
+42 Sensors ──► DQP (5-stage clean) ──► SSG (steady state) ──► XGBoost + SHAP
+       ──► SFI (3-mechanism isolation) ──► Dynamic Baseline Engine ──► FastAPI ──► React Dashboard
+              ↕                                    ↕                          ↕
+     Sensor Health Tracker              CPR: K₁=1.5867                  ARIA Copilot
+     (42 sensors · drift · cal)         T_BASE=906.7°C                  (Claude API)
+              ↕                          C7 / C13 / C15                       ↕
+     Multi-label NN                                                    3D Digital Twin
+     (sigmoid · BCE · 7 combos)                                        (Three.js · GNN)
+              ↕                                                               ↕
+     Federated Learning                                              PDF Report + SMTP
+     (4 India Facilities · FedAvg)                                   Root Cause Analysis
+```
+
+![Sensors](https://img.shields.io/badge/Sensors-42_Live_Streams-00FFD4?style=flat-square&logoColor=black)
+![Locations](https://img.shields.io/badge/Leak_Locations-7_Classified-FF6EC7?style=flat-square)
+![Latency](https://img.shields.io/badge/Detection-<1s_Real--Time-00FF94?style=flat-square&logoColor=black)
+![Training](https://img.shields.io/badge/Training_Rows-31%2C900-FFB347?style=flat-square)
+![Accuracy](https://img.shields.io/badge/XGBoost-99.95%25_Accuracy-00FF94?style=flat-square&logoColor=black)
+![Tests](https://img.shields.io/badge/Automated_Tests-85%2B_Passing-8B5CF6?style=flat-square)
+![MultiLeak](https://img.shields.io/badge/Multi--Leak-7_Valid_Combos-FF6EC7?style=flat-square)
+![Deploy](https://img.shields.io/badge/AWS_EC2-Live_Production-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Engines](https://img.shields.io/badge/Engines-C7_%C2%B7_C13_%C2%B7_C15-00FFD4?style=flat-square&logoColor=black)
+![Challenge](https://img.shields.io/badge/CAT_Tech_Challenge_2026-Top_10_National_Finalist-FFFF00?style=flat-square&logoColor=black)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     FLAGSHIP 03 — FORENSIC FINANCIAL SUITE
+     ════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,19&height=80&text=%F0%9F%A5%89%20%20FLAGSHIP%20III%20%E2%80%94%20Applied%20GenAI%20%2F%20RAG%20%20%F0%9F%A5%89&fontSize=26&fontColor=ffffff&animation=blinking"/>
 
 ### 🕵️ Forensic Financial Intelligence Suite
 
@@ -200,12 +288,12 @@ SEC Filings → OCR Router → Dual-Lane Embeddings (Prose ║ Tables) → Qdran
 ---
 
 <!-- ════════════════════════════════════════════════════════════
-     FLAGSHIP 03 — 6G SAGIN
+     FLAGSHIP 04 — 6G SAGIN
      ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,9,20&height=80&text=%F0%9F%A5%89%20%20FLAGSHIP%20III%20%E2%80%94%20Autonomous%20Networks%20%F0%9F%A5%89&fontSize=26&fontColor=ffffff&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,9,20&height=80&text=%F0%9F%8F%85%20%20FLAGSHIP%20IV%20%E2%80%94%20Autonomous%20Networks%20%F0%9F%8F%85&fontSize=26&fontColor=ffffff&animation=blinking"/>
 
 ### 🛰️ 6G SAGIN AI Command Center
 
@@ -254,12 +342,12 @@ Traffic Forecast (CNN-Transformer+MAML) ──► Beam Schedule (JPTA) ──►
 ---
 
 <!-- ════════════════════════════════════════════════════════════
-     FLAGSHIP 04 — 5G O-RAN
+     FLAGSHIP 05 — 5G O-RAN
      ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,24,30&height=80&text=%F0%9F%8F%85%20%20FLAGSHIP%20IV%20%E2%80%94%20DRL%20%2B%20XAI%20Research%20%F0%9F%8F%85&fontSize=26&fontColor=ffffff&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,24,30&height=80&text=%F0%9F%8F%86%20%20FLAGSHIP%20V%20%E2%80%94%20DRL%20%2B%20XAI%20Research%20%F0%9F%8F%86&fontSize=26&fontColor=ffffff&animation=blinking"/>
 
 ### 📡 5G DRL O-RAN Network Slicing Simulator
 
@@ -548,6 +636,16 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![torchdiffeq](https://img.shields.io/badge/torchdiffeq-Neural_ODE-8B5CF6?style=for-the-badge)
 
+**🏭 Industrial AI & MLOps**
+
+![SHAP](https://img.shields.io/badge/SHAP-TreeExplainer-8B5CF6?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5E5?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![jsPDF](https://img.shields.io/badge/jsPDF-Report_Generation-FF6EC7?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 **🏗️ Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -557,6 +655,7 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **🔬 AI Tools & Utilities**
 
@@ -587,11 +686,15 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ![Agents Built](https://img.shields.io/badge/Max_Agents_in_One_System-19_LLMs-00FFD4?style=for-the-badge&logoColor=black)
 ![Pipeline Stages](https://img.shields.io/badge/Orchestration_Phases-7_Stages-FF6EC7?style=for-the-badge)
 ![Best Accuracy](https://img.shields.io/badge/Best_Model_Accuracy->96%25-00FF94?style=for-the-badge&logoColor=black)
-![Domains](https://img.shields.io/badge/Domains_Covered-8_Active-FFB347?style=for-the-badge)
+![Domains](https://img.shields.io/badge/Domains_Covered-9_Active-FFB347?style=for-the-badge)
 ![Years Data](https://img.shields.io/badge/RAG_Corpus-10%2B_Years_SEC_Filings-8B5CF6?style=for-the-badge)
 ![Network Layers](https://img.shields.io/badge/6G_Layers-Sat_%2B_HAPs_%2B_UAV_%2B_Ground-4285F4?style=for-the-badge)
 ![Optimizers](https://img.shields.io/badge/Custom_Optimizers-E--GJO_6_Enhancements-FF6EC7?style=for-the-badge)
 ![NeuralODE](https://img.shields.io/badge/Neural_ODE-R²_0.9761_HVAC-00FF94?style=for-the-badge&logoColor=black)
+![Sensors](https://img.shields.io/badge/Industrial_Sensors-42_Live_Streams-00FFD4?style=for-the-badge&logoColor=black)
+![TestRows](https://img.shields.io/badge/Physics_Training_Rows-31%2C900-FFB347?style=for-the-badge)
+![MultiLeak](https://img.shields.io/badge/Multi--Leak_Combos-7_Thermodynamic-FF6EC7?style=for-the-badge)
+![CAT](https://img.shields.io/badge/CAT_Tech_Challenge_2026-Top_10_National_Finalist-FFFF00?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -613,6 +716,7 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 | 🏦 FinTech AI | Temporal RAG · Anomaly Detection · Audit AI |
 | 🌊 Neural ODEs | Liquid Neural Networks · Continuous-Time Dynamics · Physical Systems |
 | ⚡ Metaheuristics | Bio-Inspired Optimizers · Swarm Intelligence · Hyperparameter Search |
+| 🏭 Industrial AI | Physics-ML Hybrid Systems · Sensor Fusion · Predictive Maintenance · XAI for Engineering |
 
 </div>
 
@@ -664,6 +768,10 @@ A **transparent ML pipeline** for loan default risk assessment — PCA-compresse
 ![ORAN](https://img.shields.io/badge/O--RAN_DRL_Slicing-E84545?style=flat-square)
 ![NeuralODE](https://img.shields.io/badge/Neural_ODE_%26_LNNs-8B5CF6?style=flat-square)
 ![Metaheuristics](https://img.shields.io/badge/Bio--Inspired_Optimizers-FF6600?style=flat-square)
+![IndustrialAI](https://img.shields.io/badge/Industrial_AI_Systems-FF6EC7?style=flat-square)
+![SensorFusion](https://img.shields.io/badge/Sensor_Fusion_%26_Anomaly_Detection-00FFD4?style=flat-square&logoColor=black)
+![PhysicsML](https://img.shields.io/badge/Physics--ML_Hybrid_Systems-8B5CF6?style=flat-square)
+![PredictiveMaint](https://img.shields.io/badge/Predictive_Maintenance-00FF94?style=flat-square&logoColor=black)
 
 <br/><br/>
 
