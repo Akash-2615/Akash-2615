@@ -26,6 +26,19 @@
 <img src="https://komarev.com/ghpvc/?username=Akash-2615&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 </div>
+<br/>
+
+<div align="center">
+
+### 🌐 Explore My Portfolio
+
+<a href="https://akash-aiml-engineer.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+</a>
+
+**Discover my AI/ML projects, technical expertise, and engineering journey.**
+
+</div>
 
 <br/>
 
